@@ -1,38 +1,6 @@
 <div align="center">
 <img width="1536" height="1024" alt="finaldraft" src="https://github.com/user-attachments/assets/441cb8a2-9035-46ff-bb00-db277b5be32b" />
 
-<img width="1600" height="662" alt="skills" src="https://github.com/user-attachments/assets/986a7f90-297e-4a4d-8f89-e0e24e0c5b46" />
-
-
-
-  <p><em>I build tech that solves real problems — not just projects that show off tech.</em></p>
-
-  <br/>
-
-  <a href="https://github.com/Gunjannnn30">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/gunjan-jain30" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:gunjan.workbusiness@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" />
-  </a>
-
-</div>
-
-<br/><br/>
-
-## 🧠 About Me
-
-CS student (**AI & Data Science**) building full-stack products and AI systems — guided by **problem → design → build → measure**, not feature-first thinking.
-
-🌐 Also **CEO of AIESEC in Dehradun** — led 100+ people, drove ₹5L+ revenue, 30% ops efficiency gain.
-
-<br/><br/>
-
 ## 🚀 Featured Projects
 
 <table width="100%">
@@ -84,42 +52,33 @@ CS student (**AI & Data Science**) building full-stack products and AI systems �
 
 <br/><br/>
 
-## 🛠️ Tech Stack
+<img width="1600" height="662" alt="skills" src="https://github.com/user-attachments/assets/986a7f90-297e-4a4d-8f89-e0e24e0c5b46" />
 
-<table width="100%">
-  <thead>
-    <tr style="background-color: #161b22;">
-      <th align="left" width="28%">Domain</th>
-      <th align="left" width="72%">Technologies & Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Languages & Frontend</strong></td>
-      <td>
-        <code>JavaScript</code> &nbsp; <code>Python</code> &nbsp; <code>Java</code> &nbsp; <code>C</code> &nbsp;•&nbsp; <code>React</code> &nbsp; <code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>Vite</code>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Backend & Data</strong></td>
-      <td>
-        <code>Node.js</code> &nbsp; <code>Express</code> &nbsp; <code>FastAPI</code> &nbsp; <code>REST APIs</code> &nbsp;•&nbsp; <code>MongoDB</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>SQL</code> &nbsp; <code>Kafka</code>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>AI, DevOps & Tools</strong></td>
-      <td>
-        <code>RAG</code> &nbsp; <code>LLMs</code> &nbsp; <code>AI Agents</code> &nbsp; <code>LangGraph</code> &nbsp; <code>MCP</code> &nbsp; <code>Prompt Engineering</code> &nbsp; <code>Anthropic API</code> &nbsp; <code>Gemini API</code> &nbsp;•&nbsp; <code>Docker</code> &nbsp; <code>Git</code> &nbsp; <code>GitHub</code>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<br/>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,js,react,html,css,vite,nodejs,express,fastapi,postgres,mongodb,kafka,docker,git,github,vscode&theme=dark" alt="Gunjan's Tech Stack" />
 </div>
+  
+
+
+
+  <a href="https://github.com/Gunjannnn30">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/gunjan-jain30" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:gunjan.workbusiness@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" />
+  </a>
+
+</div>
+
+<br/><br/>
+
+
 
 <br/><br/>
 
