@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=GUNJAN%20JAIN&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20%7C%20Product%20Thinking&descAlignY=58&descSize=18" width="100%"/>
+  <img width="1085" height="723" alt="image" src="https://github.com/user-attachments/assets/4b70f689-06e5-48d6-b58a-242d7e941246" />
+
   <p><em>I build tech that solves real problems — not just projects that show off tech.</em></p>
 
   <br/>
