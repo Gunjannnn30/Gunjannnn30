@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- HERO BANNER -->
-  <img src="./assets/banner.png" alt="Gunjan - Software Engineer & UI/UX Designer" width="100%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(189, 147, 249, 0.25);" />
+  <img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/banner.png" alt="Gunjan - Software Engineer & UI/UX Designer" width="100%" />
 
   <br/><br/>
 
