@@ -5,214 +5,309 @@
 
   <br/><br/>
 
-  <!-- DYNAMIC TYPING SVG HEADER -->
+  <!-- DYNAMIC ANIMATED TYPING HEADER -->
   <a href="https://github.com/Gunjannnn30">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Hi+there!+I'm+Gunjan+%E2%9C%A8;Software+Engineer+%E2%80%A2+AI+%26+Full-Stack+Developer+%F0%9F%92%BB;Generative+AI+%C2%B7+Gemini+API+%C2%B7+Intelligent+Systems+%F0%9F%A7%A0;Building+Scalable+MERN+%26+Production+RAG+Pipelines+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=80&lines=Hi+there!+I'm+Gunjan+%E2%9C%A8;Software+Engineer+%E2%80%A2+AI+%26+Full-Stack+Developer+%F0%9F%92%BB;Generative+AI+%C2%B7+Gemini+API+%C2%B7+Intelligent+Systems+%F0%9F%A7%A0;Building+Production+RAG+Pipelines+%26+Scalable+MERN+Apps+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
+  <br/>
+
   <p align="center">
-    <strong>B.Tech in CSE (Artificial Intelligence & Data Science) · Engineer running on iced coffee ☕ and clean code 💻</strong>
+    <strong>B.Tech in Computer Science & Engineering (Artificial Intelligence & Data Science)</strong><br/>
+    <em>Engineering production-grade AI platforms, resilient full-stack systems, and high-performance software.</em>
   </p>
 
-  <!-- QUICK STATUS PILLS -->
+  <br/>
+
+  <!-- PROFESSIONAL PILL BADGES -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/gunjan-jain30"><img src="https://img.shields.io/badge/LinkedIn-gunjan--jain30-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/Gunjannnn30/RAG-Pipeline-Hybrid-Search"><img src="https://img.shields.io/badge/Tests-59%2F59%20Passing-50FA7B?style=for-the-badge&logo=pytest&logoColor=black" alt="Tests Passing" /></a>
-    <a href="mailto:gunjan.workbusiness@gmail.com"><img src="https://img.shields.io/badge/Open%20To-SWE%20%26%20AI%20Roles-BD93F9?style=for-the-badge&logo=sparkles&logoColor=white" alt="Open To Roles" /></a>
-    <a href="https://github.com/Gunjannnn30"><img src="https://img.shields.io/badge/Stack-MERN%20%C2%B7%20Python%20%C2%B7%20AI-FF79C6?style=for-the-badge&logo=codewars&logoColor=white" alt="Stack" /></a>
+    <a href="https://www.linkedin.com/in/gunjan-jain30" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-gunjan--jain30-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/Gunjannnn30/RAG-Pipeline-Hybrid-Search">
+      <img src="https://img.shields.io/badge/Test%20Suite-59%2F59%20Passing-00F5A0?style=for-the-badge&logo=pytest&logoColor=black" alt="Tests Passing" />
+    </a>
+    <a href="mailto:gunjan.workbusiness@gmail.com">
+      <img src="https://img.shields.io/badge/Email-gunjan.workbusiness%40gmail.com-7928CA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/Gunjannnn30">
+      <img src="https://img.shields.io/badge/Open%20To-Software%20%26%20AI%20Roles-00D2FF?style=for-the-badge&logo=sparkles&logoColor=black" alt="Open To Roles" />
+    </a>
   </p>
 
 </div>
 
----
-
-### 💻 `gunjan@workstation:~`
-
-```text
-┌── 🔴 🟡 🟢  gunjan@workstation:~  ────────────────────────────────────────────────────────┐
-│                                                                                          │
-│  $ whoami                                                                                │
-│  Hey, I'm Gunjan — a B.Tech student in Computer Science & Engineering (AI & Data         │
-│  Science) exploring Generative AI, Machine Learning, and Full-Stack Software Engineering.│
-│                                                                                          │
-│  I build high-performance AI systems, engineer resilient full-stack architectures,       │
-│  and turn complex technical challenges into robust, production-grade software.           │
-│                                                                                          │
-│  ├──[ CURRENT_FOCUS ]─────────────────────────────────────────────────────────────────  │
-│    ◈ Generative AI & Large Language Models (LLMs)                                        │
-│    ◈ Intelligent Systems & Autonomous AI Agents                                          │
-│    ◈ High-Performance RAG (Dense Vector + BM25 Hybrid Retrieval)                         │
-│    ◈ Full-Stack Web Architecture (MERN Stack & FastAPI)                                  │
-│                                                                                          │
-│  ├──[ PROJECTS :: ACTIVE ]─────────────────────────────────────────────────────────────  │
-│    [01] Enterprise RAG Pipeline — Concurrent Hybrid Dense + BM25 Search Over Documents   │
-│    [02] Skill2Career Engine — AI Career Mapping Platform & Intelligent Roadmaps          │
-│    [03] MCP Security Gateway — Self-Protecting Authorization Layer for AI Agent Tools    │
-│                                                                                          │
-│  ├──[ CURRENTLY ]─────────────────────────────────────────────────────────────────────  │
-│    > Grinding Data Structures & Algorithms · LeetCode Problem Solving                    │
-│    > Strengthening Core CS — DBMS • Operating Systems • Computer Networks • SysDesign    │
-│    > Mastering AI Integration, AI Automation & Google Gemini API Tooling                 │
-│                                                                                          │
-│  STATUS ▸ OPEN TO SOFTWARE ENGINEERING & AI / ML OPPORTUNITIES ✓                         │
-│                                                                                          │
-└──────────────────────────────────────────────────────────────────────────────────────────┘
-```
+<br/>
 
 ---
+
+<br/>
+
+## 👩‍💻 About Me & Engineering Philosophy
+
+<table>
+  <tr>
+    <td width="100%" style="font-size: 15px; line-height: 1.7; padding: 20px;">
+      <p>
+        I am a <strong>Software Engineer</strong> pursuing my <strong>B.Tech in Computer Science & Engineering with a specialization in Artificial Intelligence and Data Science</strong>. My engineering focus sits at the intersection of <strong>Generative AI, Large Language Models (LLMs), and scalable full-stack web applications</strong>.
+      </p>
+      <p>
+        I prioritize engineering systems with algorithmic rigor, factual grounding, and resilience:
+      </p>
+      <ul>
+        <li><strong>AI & Information Retrieval:</strong> Architecting concurrent hybrid search engines combining dense semantic embeddings with sparse BM25 lexical matching, Reciprocal Rank Fusion (RRF), cross-encoder reranking, and automated NLI citation auditing.</li>
+        <li><strong>Full-Stack Architecture:</strong> Building scalable, responsive applications on the <strong>MERN stack</strong> and <strong>FastAPI</strong> with robust state management, secure stateless JWT authentication, and zero-downtime deterministic fallback logic.</li>
+        <li><strong>Core Computer Science Foundations:</strong> Grounded in Data Structures & Algorithms, Database Management Systems, System Design, Operating Systems, and Computer Networks.</li>
+      </ul>
+      <p>
+        <em>"Reliable software isn't built by assuming optimal conditions — it's built by engineering deterministic resilience into every layer of the stack."</em>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
 
 ## ⚡ Technical Skills & Engineering Arsenal
 
 <div align="center">
 
-| Category | Core Competencies & Technologies |
-| :--- | :--- |
-| **💻 Programming Languages** | `Java` `Python` `C` `JavaScript (ES6+)` |
-| **🌐 Web & Full-Stack Development** | `MERN Stack` (`MongoDB`, `Express.js`, `React.js`, `Node.js`), `HTML5`, `CSS3`, `FastAPI`, `RESTful APIs` |
-| **🧠 AI, Machine Learning & Tools** | `Generative AI`, `Google Gemini API`, `AI Integration`, `AI Automation`, `LLMs`, `Machine Learning Algorithms`, `RAG (Hybrid Search)`, `AI Agents`, `Ollama` |
-| **⚙️ Core Computer Science** | `Data Structures & Algorithms (DSA)`, `DBMS`, `System Design`, `Operating Systems`, `Computer Networks` |
-| **🗄️ Database Systems** | `SQL`, `NoSQL` (`MongoDB Atlas`, `ChromaDB Vector Store`), `Mongoose ORM` |
-| **🛠️ Tools & Analytics** | `Git`, `GitHub`, `VS Code`, `Excel (Data Dashboards)`, `Postman`, `Docker`, `PyTest` |
+<table width="100%">
+  <thead>
+    <tr style="background-color: #161b22;">
+      <th align="left" width="30%">Domain</th>
+      <th align="left" width="70%">Technologies, Frameworks & Core Concepts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>💻 Languages</strong></td>
+      <td>
+        <code>Java</code> &nbsp; <code>Python</code> &nbsp; <code>C</code> &nbsp; <code>JavaScript (ES6+)</code>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>🌐 Web & Full-Stack</strong></td>
+      <td>
+        <code>MERN Stack</code> (<code>MongoDB</code>, <code>Express.js</code>, <code>React.js</code>, <code>Node.js</code>) &nbsp;•&nbsp; <code>HTML5</code> &nbsp;•&nbsp; <code>CSS3</code> &nbsp;•&nbsp; <code>FastAPI</code> &nbsp;•&nbsp; <code>RESTful APIs</code>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>🧠 AI & Machine Learning</strong></td>
+      <td>
+        <code>Generative AI</code> &nbsp;•&nbsp; <code>Google Gemini API</code> &nbsp;•&nbsp; <code>AI Integration</code> &nbsp;•&nbsp; <code>AI Automation</code> &nbsp;•&nbsp; <code>Large Language Models (LLMs)</code> &nbsp;•&nbsp; <code>Machine Learning Algorithms</code> &nbsp;•&nbsp; <code>Hybrid RAG</code> &nbsp;•&nbsp; <code>AI Agents</code> &nbsp;•&nbsp; <code>Ollama (Local Inference)</code>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>⚙️ Core Computer Science</strong></td>
+      <td>
+        <code>Data Structures & Algorithms (DSA)</code> &nbsp;•&nbsp; <code>DBMS</code> &nbsp;•&nbsp; <code>System Design</code> &nbsp;•&nbsp; <code>Operating Systems</code> &nbsp;•&nbsp; <code>Computer Networks</code>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>🗄️ Database Systems</strong></td>
+      <td>
+        <code>SQL</code> &nbsp;•&nbsp; <code>NoSQL</code> (<code>MongoDB Atlas</code>, <code>ChromaDB Vector Store</code>) &nbsp;•&nbsp; <code>Mongoose ORM</code>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>🛠️ Tools & Analytics</strong></td>
+      <td>
+        <code>Git</code> &nbsp;•&nbsp; <code>GitHub</code> &nbsp;•&nbsp; <code>VS Code</code> &nbsp;•&nbsp; <code>Microsoft Excel (Data Dashboards)</code> &nbsp;•&nbsp; <code>Postman</code> &nbsp;•&nbsp; <code>Docker</code> &nbsp;•&nbsp; <code>PyTest</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
-<!-- MODERN TECH BADGES -->
+<!-- MODERN SKILL ICONS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Generative%20AI-FF79C6?style=for-the-badge&logo=sparkles&logoColor=white" alt="GenAI" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Excel%20Dashboards-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-</p>
-
-<!-- SKILL ICONS MATRIX -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,react,nodejs,express,mongodb,fastapi,docker,git,github,vscode&theme=dark" alt="Gunjan's Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,react,nodejs,express,mongodb,fastapi,docker,git,github,vscode&theme=dark" alt="Technical Skills" />
 </p>
 
 </div>
 
----
-
-## 💼 Featured Engineering Portfolio & Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🔍 01. Enterprise RAG Pipeline with Hybrid Search</h3>
-        <p><strong>Production-Grade Information Retrieval & Hallucination Prevention</strong></p>
-      </div>
-      <p>
-        An enterprise-ready Retrieval-Augmented Generation platform built to systematically eliminate semantic drift, context pollution, and unverified hallucinations across dense enterprise documentation.
-      </p>
-      <ul>
-        <li><strong>Concurrent Hybrid Retrieval:</strong> Dense semantic embeddings (ChromaDB) + Sparse lexical (BM25) fused via Reciprocal Rank Fusion (RRF).</li>
-        <li><strong>Parallel Cross-Encoder Reranker:</strong> Multi-threaded LLM-as-judge scoring top-20 candidates down to top-5 high-signal passages.</li>
-        <li><strong>NLI Citation Verification:</strong> Automated sentence-by-sentence Natural Language Inference auditing.</li>
-        <li><strong>100% Offline & Sovereign:</strong> Powered on-premise by Ollama with zero token costs and zero external cloud data leaks.</li>
-        <li><strong>Zero Regressions:</strong> Comprehensive test suite with <strong>59/59 passing unit and integration tests</strong>.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/Gunjannnn30/RAG-Pipeline-Hybrid-Search"><img src="https://img.shields.io/badge/GitHub-View%20Repository-FF79C6?style=flat-square&logo=github" /></a>
-        <a href="https://github.com/Gunjannnn30/RAG-Pipeline-Hybrid-Search"><img src="https://img.shields.io/badge/Status-59%2F59%20Tests%20Passing-50FA7B?style=flat-square&logo=pytest&logoColor=black" /></a>
-      </p>
-      <div align="center">
-        <code>Python 3.11+</code> · <code>FastAPI</code> · <code>Ollama</code> · <code>ChromaDB</code> · <code>Streamlit</code> · <code>Docker</code>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🎯 02. Skill2Career Engine — AI Career Intelligence</h3>
-        <p><strong>Career Guidance Platform with Resilient Heuristic Fallback Engine</strong></p>
-      </div>
-      <p>
-        An AI-powered guidance platform that ingests candidate resumes or skill lists, performs deficiency gap analysis against real-world roles, and generates personalized milestone roadmaps.
-      </p>
-      <ul>
-        <li><strong>AI Integration:</strong> Google Gemini API integration with multi-tier routing (<code>gemini-3.1-flash-lite</code> ➔ <code>gemini-2.5-flash</code>).</li>
-        <li><strong>Resilient Offline Engine:</strong> Deterministic keyword-matching fallback guarantees zero UI crashes even during network outages or API quota limits.</li>
-        <li><strong>In-Memory Privacy:</strong> High-speed resume parsing using <code>multer.memoryStorage()</code> with zero unneeded storage of user PDFs.</li>
-        <li><strong>Full-Stack Architecture:</strong> Stateless JWT authentication, MongoDB history persistence, and client-side vector-styled PDF reports.</li>
-        <li><strong>Live Deployments:</strong> Backend active on Render, frontend edge cached on Vercel.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/Gunjannnn30/skill2career-engine"><img src="https://img.shields.io/badge/GitHub-View%20Repository-BD93F9?style=flat-square&logo=github" /></a>
-        <a href="https://github.com/Gunjannnn30/skill2career-engine"><img src="https://img.shields.io/badge/Live-Render%20%2B%20Vercel-8BE9FD?style=flat-square&logo=vercel" /></a>
-      </p>
-      <div align="center">
-        <code>MERN Stack</code> · <code>React 18.3</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code> · <code>Gemini API</code>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <div align="center">
-        <h3>🛡️ 03. MCP Security Gateway — Self-Protecting Layer for AI Agent Tool Calls</h3>
-        <p><strong>Intelligent Execution Sandbox & Policy Enforcement for Autonomous AI Workflows</strong></p>
-      </div>
-      <p>
-        An intelligent security gateway engineered to monitor, intercept, and validate autonomous Model Context Protocol (MCP) agent tool calls in real time. Prevents prompt injection exploits, stops unauthorized system calls, and enforces strict least-privilege runtime sandboxing before tools execute.
-      </p>
-      <div align="center">
-        <code>Python</code> · <code>AI Agents</code> · <code>Model Context Protocol (MCP)</code> · <code>Runtime Sandboxing</code> · <code>Security Policies</code>
-      </div>
-    </td>
-  </tr>
-</table>
+<br/>
 
 ---
 
-## 🏆 Key Achievements & Engineering Milestones
+<br/>
+
+## 💼 Featured Engineering Projects & Architecture
+
+<br/>
+
+### 🔍 01. Enterprise RAG Pipeline with Hybrid Search
+
+> **Production-Grade Information Retrieval, Hybrid Ranking & Automated Hallucination Verification**
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Gunjannnn30/RAG-Pipeline-Hybrid-Search" target="_blank">
+    <img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/rag-architecture.png" alt="RAG Pipeline Architecture" width="95%" style="border-radius: 10px; border: 1px solid #30363d;" />
+  </a>
+</div>
+
+<br/>
 
 <table>
   <tr>
-    <td width="33%" align="center">
-      <h3>🛡️ 59 / 59</h3>
-      <p><strong>Automated Test Suites</strong></p>
-      <p>Engineered zero-regression test coverage spanning dense vector indexing, BM25 retrieval, and cross-encoder reranking.</p>
+    <td width="65%" valign="top">
+      <h4>System Overview & Engineering Highlights:</h4>
+      <ul>
+        <li><strong>Concurrent Hybrid Retrieval:</strong> Fuses dense semantic vector embeddings (ChromaDB) and sparse lexical retrieval (BM25) using <em>Reciprocal Rank Fusion (RRF)</em> to eliminate semantic drift and capture exact identifiers.</li>
+        <li><strong>Parallel Cross-Encoder Reranker:</strong> Employs multi-threaded LLM-as-judge scoring to prune top-20 candidate chunks down to top-5 high-signal passages.</li>
+        <li><strong>Automated NLI Citation Verification:</strong> Audits every generated sentence against source documents using Natural Language Inference to prevent hallucinated citations.</li>
+        <li><strong>100% Offline & Sovereign:</strong> Runs locally via Ollama with zero token bills and zero cloud data leaks.</li>
+        <li><strong>Test-Driven Engineering:</strong> Backed by <strong>59/59 passing unit and integration test suites</strong>.</li>
+      </ul>
+      <p>
+        <code>Python 3.11+</code> · <code>FastAPI</code> · <code>ChromaDB</code> · <code>BM25</code> · <code>Ollama</code> · <code>Streamlit</code> · <code>Docker</code> · <code>PyTest</code>
+      </p>
     </td>
-    <td width="33%" align="center">
-      <h3>📚 500K+</h3>
-      <p><strong>Corpus Evaluation</strong></p>
-      <p>Benchmarked hybrid search and reciprocal rank fusion over 500K+ enterprise documents on EnterpriseRAG-Bench.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🔒 100%</h3>
-      <p><strong>Offline Local Privacy</strong></p>
-      <p>Architected completely sovereign AI pipelines running on Ollama with zero token costs and zero cloud data leaks.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-      <h3>🚀 Production</h3>
-      <p><strong>Live Full-Stack Deployments</strong></p>
-      <p>Shipped and scaled production web applications with live backends on Render and edge clients on Vercel.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>⚡ Resilient Fallback</h3>
-      <p><strong>Deterministic Engine</strong></p>
-      <p>Implemented offline heuristic matching engines ensuring zero broken screens during third-party API rate limits.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🎓 B.Tech CSE</h3>
-      <p><strong>AI & Data Science</strong></p>
-      <p>Strong core CS foundation in Data Structures, Algorithms, DBMS, Operating Systems, Computer Networks, and System Design.</p>
+    <td width="35%" valign="middle" align="center">
+      <br/>
+      <a href="https://github.com/Gunjannnn30/RAG-Pipeline-Hybrid-Search" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-View%20Repository-00D2FF?style=for-the-badge&logo=github&logoColor=black" alt="View Repo" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/Gunjannnn30/RAG-Pipeline-Hybrid-Search" target="_blank">
+        <img src="https://img.shields.io/badge/Tests-59%2F59%20Passing-00F5A0?style=for-the-badge&logo=pytest&logoColor=black" alt="Tests" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Privacy-100%25%20Local-7928CA?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Local" />
     </td>
   </tr>
 </table>
 
+<br/><br/>
+
+### 🎯 02. Skill2Career Engine — AI Career Mapping Platform
+
+> **Intelligent Career Gap Analysis with Resilient Deterministic Heuristic Fallback Routing**
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Gunjannnn30/skill2career-engine" target="_blank">
+    <img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/skill2career-preview.png" alt="Skill2Career Preview" width="95%" style="border-radius: 10px; border: 1px solid #30363d;" />
+  </a>
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h4>System Overview & Engineering Highlights:</h4>
+      <ul>
+        <li><strong>AI Career Intelligence:</strong> Integrates Google Gemini API with multi-tiered routing (<code>gemini-3.1-flash-lite</code> with automatic fallback to <code>gemini-2.5-flash</code>) to parse resumes and map missing skill sets.</li>
+        <li><strong>Deterministic Rule Safety:</strong> Features an offline keyword heuristic engine ensuring the user experience never crashes even during third-party API rate limits.</li>
+        <li><strong>In-Memory Privacy:</strong> Ingests and parses PDF resumes in memory using <code>multer.memoryStorage()</code> with zero unneeded file persistence.</li>
+        <li><strong>Production Deployment:</strong> Fully deployed with live Express/Node API on Render and edge client delivery on Vercel.</li>
+      </ul>
+      <p>
+        <code>React 18.3</code> · <code>Node.js</code> · <code>Express.js</code> · <code>MongoDB Atlas</code> · <code>Google Gemini API</code> · <code>JWT</code>
+      </p>
+    </td>
+    <td width="35%" valign="middle" align="center">
+      <br/>
+      <a href="https://github.com/Gunjannnn30/skill2career-engine" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-View%20Repository-7928CA?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/Gunjannnn30/skill2career-engine" target="_blank">
+        <img src="https://img.shields.io/badge/Live-Render%20%2B%20Vercel-00D2FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Deploy" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20Gemini-00F5A0?style=for-the-badge&logo=react&logoColor=black" alt="MERN" />
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+### 🛡️ 03. MCP Security Gateway
+
+> **Self-Protecting Authorization Layer for AI Agent Tool Calls & Runtime Sandboxing**
+
+<br/>
+
+<table>
+  <tr>
+    <td width="100%" style="padding: 18px; line-height: 1.6;">
+      <p>
+        A security framework designed to intercept, monitor, and enforce access control policies on autonomous Model Context Protocol (MCP) agent tool executions. Protects developer environments and corporate systems against unauthorized tool invocations, prompt injection escapes, and out-of-boundary file system access through real-time static and behavioral rule evaluation.
+      </p>
+      <p>
+        <code>Python</code> &nbsp;•&nbsp; <code>AI Agents</code> &nbsp;•&nbsp; <code>Model Context Protocol (MCP)</code> &nbsp;•&nbsp; <code>Runtime Sandboxing</code> &nbsp;•&nbsp; <code>Security Gateways</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ---
 
-## 📊 Telemetry & GitHub Analytics
+<br/>
+
+## 🏆 Key Achievements & Engineering Metrics
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" style="padding: 15px;">
+      <h3 style="color: #00F5A0; margin-bottom: 5px;">🛡️ 59 / 59</h3>
+      <p><strong>Automated Test Coverage</strong></p>
+      <p style="font-size: 13px; color: #8b949e;">Zero-regression test suites spanning vector indexing, reranking, and boundary conditions.</p>
+    </td>
+    <td width="33%" align="center" style="padding: 15px;">
+      <h3 style="color: #00D2FF; margin-bottom: 5px;">📚 500K+</h3>
+      <p><strong>Corpus Evaluation</strong></p>
+      <p style="font-size: 13px; color: #8b949e;">Benchmarked hybrid search over 500K+ complex documents on EnterpriseRAG-Bench.</p>
+    </td>
+    <td width="33%" align="center" style="padding: 15px;">
+      <h3 style="color: #7928CA; margin-bottom: 5px;">🔒 100%</h3>
+      <p><strong>Offline Local Privacy</strong></p>
+      <p style="font-size: 13px; color: #8b949e;">Engineered sovereign on-premise Ollama pipelines with zero cloud data transmission.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" style="padding: 15px;">
+      <h3 style="color: #00D2FF; margin-bottom: 5px;">🚀 Production</h3>
+      <p><strong>Cloud Deployments</strong></p>
+      <p style="font-size: 13px; color: #8b949e;">Successfully shipped and maintained live production architectures on Render and Vercel.</p>
+    </td>
+    <td width="33%" align="center" style="padding: 15px;">
+      <h3 style="color: #00F5A0; margin-bottom: 5px;">⚡ Resilient</h3>
+      <p><strong>Deterministic Fallbacks</strong></p>
+      <p style="font-size: 13px; color: #8b949e;">Heuristic routing engines preventing UI crashes during third-party LLM rate limits.</p>
+    </td>
+    <td width="33%" align="center" style="padding: 15px;">
+      <h3 style="color: #7928CA; margin-bottom: 5px;">🎓 B.Tech CSE</h3>
+      <p><strong>AI & Data Science</strong></p>
+      <p style="font-size: 13px; color: #8b949e;">Rigorous academic foundation in DSA, DBMS, OS, Computer Networks & System Design.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## 📊 GitHub Analytics & Telemetry
+
+<br/>
 
 <div align="center">
 
@@ -221,29 +316,29 @@
     <tr>
       <td>
         <a href="https://github.com/Gunjannnn30">
-          <img src="https://github-readme-stats.vercel.app/api?username=Gunjannnn30&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=BD93F9&title_color=FF79C6&text_color=F8F8F2&icon_color=8BE9FD&hide_border=false" alt="Gunjan's GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Gunjannnn30&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=00D2FF&title_color=00D2FF&text_color=F8F8F2&icon_color=00F5A0&hide_border=false" alt="Gunjan's GitHub Stats" />
         </a>
       </td>
       <td>
         <a href="https://github.com/Gunjannnn30">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunjannnn30&theme=tokyonight&background=0D1117&ring=BD93F9&fire=FF79C6&currStreakLabel=BD93F9&sideNums=F8F8F2&sideLabels=8BE9FD&border=BD93F9" alt="Gunjan's GitHub Streak" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunjannnn30&theme=tokyonight&background=0D1117&ring=00D2FF&fire=00F5A0&currStreakLabel=00D2FF&sideNums=F8F8F2&sideLabels=7928CA&border=00D2FF" alt="Gunjan's GitHub Streak" />
         </a>
       </td>
     </tr>
   </table>
 
-  <br/>
+  <br/><br/>
 
   <!-- TOP LANGUAGES -->
   <a href="https://github.com/Gunjannnn30">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjannnn30&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=BD93F9&title_color=FF79C6&text_color=F8F8F2&hide_border=false" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjannnn30&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=7928CA&title_color=00D2FF&text_color=F8F8F2&hide_border=false" alt="Top Languages" />
   </a>
 
   <br/><br/>
 
-  <!-- ACTIVITY GRAPH -->
+  <!-- CONTRIBUTION ACTIVITY GRAPH -->
   <a href="https://github.com/Gunjannnn30">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunjannnn30&bg_color=0D1117&color=BD93F9&line=FF79C6&point=8BE9FD&area=true&hide_border=false&border_color=BD93F9" alt="Gunjan's Contribution Graph" width="95%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunjannnn30&bg_color=0D1117&color=00D2FF&line=00F5A0&point=7928CA&area=true&hide_border=false&border_color=00D2FF" alt="Contribution Graph" width="95%" />
   </a>
 
   <br/><br/>
@@ -255,47 +350,43 @@
 
 </div>
 
----
-
-## 🌸 The Tech Girl Vibe & Dev Setup
-
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│  🎧 On Repeat: Cyberpunk Synthwave, Lo-Fi Chillhop & Techno Beats      │
-│  ⌨️  Rig: Mechanical Tactile switches with RGB Lavender Backlight       │
-│  🖥️  Environment: Obsidian Dark Mode · VS Code · Fira Code Ligatures    │
-│  ☕ Fuel: Iced Caramel Macchiato & Cold Brew                           │
-│  🧠 Philosophy: "Clean code, robust architectures & relentless curiosity."│
-└────────────────────────────────────────────────────────────────────────┘
-```
+<br/>
 
 ---
+
+<br/>
 
 ## 📬 Let's Connect & Collaborate!
 
+<br/>
+
 <div align="center">
 
-Whether you're looking to discuss **Generative AI & LLMs**, collaborate on **Full-Stack & RAG Engineering**, or explore **Software Engineering opportunities** — feel free to reach out!
+<p style="font-size: 15px; max-width: 600px;">
+  Whether you're interested in discussing <strong>Generative AI & LLMs</strong>, collaborating on <strong>Production RAG & Full-Stack Architectures</strong>, or exploring <strong>Software Engineering opportunities</strong> — feel free to connect!
+</p>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/gunjan-jain30" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-gunjan--jain30-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-gunjan--jain30-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+&nbsp;
 <a href="mailto:gunjan.workbusiness@gmail.com">
-  <img src="https://img.shields.io/badge/Email-gunjan.workbusiness%40gmail.com-FF79C6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-gunjan.workbusiness%40gmail.com-7928CA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+&nbsp;
 <a href="https://github.com/Gunjannnn30">
-  <img src="https://img.shields.io/badge/GitHub-@Gunjannnn30-BD93F9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-@Gunjannnn30-00D2FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
 </a>
 
 <br/><br/>
 
 <!-- VISITOR RADAR -->
-<img src="https://komarev.com/ghpvc/?username=Gunjannnn30&color=ff79c6&style=for-the-badge&label=PROFILE+VISITS" alt="Visitor Radar" />
+<img src="https://komarev.com/ghpvc/?username=Gunjannnn30&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br/><br/>
 
-<sub>Crafted with 💜 and lots of coffee by **Gunjan Jain** · © 2026</sub>
+<sub>Designed & Engineered with precision by <strong>Gunjan Jain</strong> · © 2026</sub>
 
 </div>
