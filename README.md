@@ -1,5 +1,9 @@
 <div align="center">
-<img width="1536" height="1024" alt="portfolio" src="https://github.com/user-attachments/assets/eb6dde96-21e4-4205-934f-01fb74b315c8" />
+<img width="1536" height="1024" alt="finaldraft" src="https://github.com/user-attachments/assets/441cb8a2-9035-46ff-bb00-db277b5be32b" />
+
+<img width="1600" height="662" alt="skills" src="https://github.com/user-attachments/assets/986a7f90-297e-4a4d-8f89-e0e24e0c5b46" />
+
+
 
   <p><em>I build tech that solves real problems — not just projects that show off tech.</em></p>
 
