@@ -4,17 +4,8 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/gunjan-jain30" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:gunjan.workbusiness@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000D16?style=for-the-badge&logo=gmail&logoColor=00D2FF&labelColor=000D16" alt="Email" />
-</a>
-&nbsp;
-<a href="https://github.com/Gunjannnn30">
-  <img src="https://img.shields.io/badge/GitHub-000D16?style=for-the-badge&logo=github&logoColor=00F5A0&labelColor=000D16" alt="GitHub" />
-</a>
+<!-- Interactive Contact Dock -->
+<a href="mailto:gunjan.workbusiness@gmail.com" title="Email: gunjan.workbusiness@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-email.png" alt="Email" height="85" /></a><a href="https://www.linkedin.com/in/gunjan-jain30" title="LinkedIn: gunjan-jain30" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-linkedin.png" alt="LinkedIn" height="85" /></a><a href="https://www.instagram.com/gunjan_jain30" title="Instagram: @gunjan_jain30" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-instagram.png" alt="Instagram" height="85" /></a><a href="https://substack.com/@gunjanjain" title="Substack: Gunjan Jain" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-substack.png" alt="Substack" height="85" /></a>
 
 </div>
 
@@ -228,17 +219,7 @@
   <br/>
 
   <p>
-    <a href="https://github.com/Gunjannnn30">
-      <img src="https://img.shields.io/badge/GitHub-000D16?style=for-the-badge&logo=github&logoColor=00F5A0&labelColor=000D16" alt="GitHub" />
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/gunjan-jain30" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:gunjan.workbusiness@gmail.com">
-      <img src="https://img.shields.io/badge/Email-000D16?style=for-the-badge&logo=gmail&logoColor=00D2FF&labelColor=000D16" alt="Email" />
-    </a>
+    <a href="mailto:gunjan.workbusiness@gmail.com" title="Email: gunjan.workbusiness@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-email.png" alt="Email" height="75" /></a><a href="https://www.linkedin.com/in/gunjan-jain30" title="LinkedIn: gunjan-jain30" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-linkedin.png" alt="LinkedIn" height="75" /></a><a href="https://www.instagram.com/gunjan_jain30" title="Instagram: @gunjan_jain30" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-instagram.png" alt="Instagram" height="75" /></a><a href="https://substack.com/@gunjanjain" title="Substack: Gunjan Jain" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-substack.png" alt="Substack" height="75" /></a>
   </p>
 
   <br/>
