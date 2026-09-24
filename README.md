@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Gunjan Jain — Portfolio Header" src="https://github.com/user-attachments/assets/441cb8a2-9035-46ff-bb00-db277b5be32b" />
+<img width="1536" height="1024" alt="WhatsApp Image 2026-09-25 at 1 16 18 AM" src="https://github.com/user-attachments/assets/632cf771-119a-4772-9f4c-35da13d658c5" />
 
 <br/><br/>
 
