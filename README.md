@@ -4,13 +4,8 @@
 
 <br/>
 
-<!-- Connect With Me Heading (Exact portfolio background: #08121C) -->
-<img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/connect-header.png" alt="Connect With Me" width="480" />
-
-<br/>
-
-<!-- Interactive Contact Dock (Exact portfolio background: #08121C) -->
-<a href="mailto:gunjan.workbusiness@gmail.com" title="Email: gunjan.workbusiness@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-email.png" alt="Email" height="80" /></a><a href="https://www.linkedin.com/in/gunjan-jain30" title="LinkedIn: gunjan-jain30" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-linkedin.png" alt="LinkedIn" height="80" /></a><a href="https://www.instagram.com/gunjan.decodes?stkn=MTdqZXNvbWJxbDhwcg==" title="Instagram: @gunjan.decodes" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-instagram.png" alt="Instagram" height="80" /></a><a href="https://substack.com/@gunjanjain30" title="Substack: @gunjanjain30" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-substack.png" alt="Substack" height="80" /></a>
+<!-- Connect With Me Banner (Full Width) -->
+<img width="100%" alt="Connect With Me" src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/connect-banner.png" />
 
 </div>
 
