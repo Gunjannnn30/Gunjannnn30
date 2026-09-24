@@ -2,10 +2,15 @@
 
 <img width="1536" height="1024" alt="WhatsApp Image 2026-09-25 at 1 16 18 AM" src="https://github.com/user-attachments/assets/632cf771-119a-4772-9f4c-35da13d658c5" />
 
-<br/><br/>
+<br/>
 
-<!-- Interactive Contact Dock -->
-<a href="mailto:gunjan.workbusiness@gmail.com" title="Email: gunjan.workbusiness@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-email.png" alt="Email" height="85" /></a><a href="https://www.linkedin.com/in/gunjan-jain30" title="LinkedIn: gunjan-jain30" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-linkedin.png" alt="LinkedIn" height="85" /></a><a href="https://www.instagram.com/gunjan_jain30" title="Instagram: @gunjan_jain30" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-instagram.png" alt="Instagram" height="85" /></a><a href="https://substack.com/@gunjanjain" title="Substack: Gunjan Jain" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-substack.png" alt="Substack" height="85" /></a>
+<!-- Connect With Me Heading (Exact portfolio background: #08121C) -->
+<img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/connect-header.png" alt="Connect With Me" width="480" />
+
+<br/>
+
+<!-- Interactive Contact Dock (Exact portfolio background: #08121C) -->
+<a href="mailto:gunjan.workbusiness@gmail.com" title="Email: gunjan.workbusiness@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-email.png" alt="Email" height="80" /></a><a href="https://www.linkedin.com/in/gunjan-jain30" title="LinkedIn: gunjan-jain30" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-linkedin.png" alt="LinkedIn" height="80" /></a><a href="https://www.instagram.com/gunjan.decodes?stkn=MTdqZXNvbWJxbDhwcg==" title="Instagram: @gunjan.decodes" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-instagram.png" alt="Instagram" height="80" /></a><a href="https://substack.com/@gunjanjain30" title="Substack: @gunjanjain30" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-substack.png" alt="Substack" height="80" /></a>
 
 </div>
 
@@ -219,7 +224,7 @@
   <br/>
 
   <p>
-    <a href="mailto:gunjan.workbusiness@gmail.com" title="Email: gunjan.workbusiness@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-email.png" alt="Email" height="75" /></a><a href="https://www.linkedin.com/in/gunjan-jain30" title="LinkedIn: gunjan-jain30" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-linkedin.png" alt="LinkedIn" height="75" /></a><a href="https://www.instagram.com/gunjan_jain30" title="Instagram: @gunjan_jain30" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-instagram.png" alt="Instagram" height="75" /></a><a href="https://substack.com/@gunjanjain" title="Substack: Gunjan Jain" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-substack.png" alt="Substack" height="75" /></a>
+    <a href="mailto:gunjan.workbusiness@gmail.com" title="Email: gunjan.workbusiness@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-email.png" alt="Email" height="75" /></a><a href="https://www.linkedin.com/in/gunjan-jain30" title="LinkedIn: gunjan-jain30" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-linkedin.png" alt="LinkedIn" height="75" /></a><a href="https://www.instagram.com/gunjan.decodes?stkn=MTdqZXNvbWJxbDhwcg==" title="Instagram: @gunjan.decodes" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-instagram.png" alt="Instagram" height="75" /></a><a href="https://substack.com/@gunjanjain30" title="Substack: @gunjanjain30" target="_blank"><img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/contact-substack.png" alt="Substack" height="75" /></a>
   </p>
 
   <br/>
