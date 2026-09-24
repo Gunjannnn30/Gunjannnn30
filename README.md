@@ -1,39 +1,29 @@
+<!-- GUNJAN JAIN — GitHub Profile README Positioning: Software Engineer • AI & Full-Stack • Product Thinking -->
+
 <div align="center">
 
   <!-- HERO BANNER -->
-  <img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/banner.png" alt="Gunjan - Software Engineer • AI & Full-Stack Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/banner.png" alt="Gunjan Jain - Software Engineer • AI & Full-Stack Developer" width="100%" />
 
   <br/><br/>
 
-  <!-- DYNAMIC ANIMATED TYPING HEADER -->
+  <h1>GUNJAN JAIN</h1>
+  <p><strong>Software Engineer · AI & Full-Stack · Product Thinking</strong></p>
+  <p><em>I build technology that solves real problems — not just projects that demonstrate technology.</em></p>
+
+  <br/>
+
   <a href="https://github.com/Gunjannnn30">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=80&lines=Hi+there!+I'm+Gunjan+%E2%9C%A8;Software+Engineer+%E2%80%A2+AI+%26+Full-Stack+Developer+%F0%9F%92%BB;Generative+AI+%C2%B7+Gemini+API+%C2%B7+Intelligent+Systems+%F0%9F%A7%A0;Building+Production+RAG+Pipelines+%26+Scalable+MERN+Apps+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Portfolio" />
   </a>
-
-  <br/>
-
-  <p align="center">
-    <strong>B.Tech in Computer Science & Engineering (Artificial Intelligence & Data Science)</strong><br/>
-    <em>Engineering production-grade AI platforms, resilient full-stack systems, and high-performance software.</em>
-  </p>
-
-  <br/>
-
-  <!-- PROFESSIONAL PILL BADGES -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/gunjan-jain30" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-gunjan--jain30-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/Gunjannnn30/RAG-Pipeline-Hybrid-Search">
-      <img src="https://img.shields.io/badge/Test%20Suite-59%2F59%20Passing-00F5A0?style=for-the-badge&logo=pytest&logoColor=black" alt="Tests Passing" />
-    </a>
-    <a href="mailto:gunjan.workbusiness@gmail.com">
-      <img src="https://img.shields.io/badge/Email-gunjan.workbusiness%40gmail.com-7928CA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/Gunjannnn30">
-      <img src="https://img.shields.io/badge/Open%20To-Software%20%26%20AI%20Roles-00D2FF?style=for-the-badge&logo=sparkles&logoColor=black" alt="Open To Roles" />
-    </a>
-  </p>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/gunjan-jain30" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:gunjan.workbusiness@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" />
+  </a>
 
 </div>
 
@@ -43,28 +33,23 @@
 
 <br/>
 
-## 👩‍💻 About Me & Engineering Philosophy
+## 01 — ENGINEERING × PRODUCT
 
-<table>
-  <tr>
-    <td width="100%" style="font-size: 15px; line-height: 1.7; padding: 20px;">
-      <p>
-        I am a <strong>Software Engineer</strong> pursuing my <strong>B.Tech in Computer Science & Engineering with a specialization in Artificial Intelligence and Data Science</strong>. My engineering focus sits at the intersection of <strong>Generative AI, Large Language Models (LLMs), and scalable full-stack web applications</strong>.
-      </p>
-      <p>
-        I prioritize engineering systems with algorithmic rigor, factual grounding, and resilience:
-      </p>
-      <ul>
-        <li><strong>AI & Information Retrieval:</strong> Architecting concurrent hybrid search engines combining dense semantic embeddings with sparse BM25 lexical matching, Reciprocal Rank Fusion (RRF), cross-encoder reranking, and automated NLI citation auditing.</li>
-        <li><strong>Full-Stack Architecture:</strong> Building scalable, responsive applications on the <strong>MERN stack</strong> and <strong>FastAPI</strong> with robust state management, secure stateless JWT authentication, and zero-downtime deterministic fallback logic.</li>
-        <li><strong>Core Computer Science Foundations:</strong> Grounded in Data Structures & Algorithms, Database Management Systems, System Design, Operating Systems, and Computer Networks.</li>
-      </ul>
-      <p>
-        <em>"Reliable software isn't built by assuming optimal conditions — it's built by engineering deterministic resilience into every layer of the stack."</em>
-      </p>
-    </td>
-  </tr>
-</table>
+I'm a **Computer Science — AI & Data Science** student focused on building full-stack products and AI-powered systems.
+
+My interests sit at the intersection of:
+
+<div align="center">
+  <strong>Software Engineering &nbsp;+&nbsp; Artificial Intelligence &nbsp;+&nbsp; Product Thinking &nbsp;+&nbsp; User Experience</strong>
+</div>
+
+<br/>
+
+I don't want to build software that merely works.
+
+I want to understand:
+
+> **Who is using it?** &nbsp;→&nbsp; **What problem are they facing?** &nbsp;→&nbsp; **What should be built?** &nbsp;→&nbsp; **How should it work?** &nbsp;→&nbsp; **How do we know it actually helped?**
 
 <br/>
 
@@ -72,82 +57,309 @@
 
 <br/>
 
-## ⚡ Technical Skills & Engineering Arsenal
+## 02 — HOW I BUILD
 
 <div align="center">
+
+```text
+USER PROBLEM
+     │
+     ▼
+┌──────────────┐
+│   DISCOVER   │
+│  Understand  │
+│   the user   │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│    DEFINE    │
+│  Problem +   │
+│ Requirements │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│    DESIGN    │
+│  UX + System │
+│ Architecture │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│    BUILD     │
+│  Frontend +  │
+│ Backend + AI │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│   MEASURE    │
+│   Usage +    │
+│   Feedback   │
+└──────┬───────┘
+       │
+       └─────────────────────────────► ITERATE
+```
+
+</div>
+
+<br/>
+
+### I build websites that build businesses.
+
+For me, frontend development isn't just about making interfaces look good.
+
+A website should help a business:
+- **explain its value**
+- **reduce friction**
+- **guide users toward an action**
+- **build trust**
+- **convert attention into outcomes**
+
+My interest in this comes from combining engineering with product thinking and from working in environments where communication, operations, people and outcomes matter as much as execution.
+
+<br/>
+
+---
+
+<br/>
+
+## 03 — SELECTED PROJECTS
+
+<br/>
+
+### 01 / RAG SYSTEM
+**Retrieval-Augmented Generation**  
+*Turning unstructured information into grounded AI responses.*
+
+Most basic RAG demonstrations stop at:
+> Documents &nbsp;→&nbsp; Embeddings &nbsp;→&nbsp; Vector Search &nbsp;→&nbsp; LLM
+
+**I'm interested in what happens after that.**
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Gunjannnn30/RAG-Pipeline-Hybrid-Search" target="_blank">
+    <img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/rag-architecture.png" alt="RAG Pipeline System Architecture" width="95%" style="border-radius: 8px; border: 1px solid #30363d;" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+
+```text
+┌─────────────────┐
+│      USER       │
+│      QUERY      │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Query Processing│
+│ & Understanding │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────────────────┐
+│       RETRIEVAL LAYER       │
+│                             │
+│       Semantic Search       │
+│              +              │
+│    Keyword / Exact Search   │
+└────────────┬────────────────┘
+             │
+             ▼
+┌─────────────────────────────┐
+│      RELEVANCE FILTER       │
+│                             │
+│  Remove irrelevant context  │
+│  + rank useful information  │
+└────────────┬────────────────┘
+             │
+             ▼
+┌─────────────────────────────┐
+│       CONTEXT BUILDER       │
+│                             │
+│ Relevant evidence → Prompt  │
+└────────────┬────────────────┘
+             │
+             ▼
+┌─────────────────────────────┐
+│             LLM             │
+│                             │
+│  Generate grounded response │
+└────────────┬────────────────┘
+             │
+             ▼
+┌─────────────────────────────┐
+│     RESPONSE + SOURCES      │
+└─────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+#### Engineering focus
+- **Retrieval quality:** Multi-channel dense vectors + sparse BM25 candidate generation.
+- **Context selection:** Reciprocal Rank Fusion (RRF) and cross-encoder reranking down to high-signal passages.
+- **Grounded generation:** Eliminating hallucinations over dense enterprise corpora.
+- **Citation / source attribution:** Automated sentence-by-sentence Natural Language Inference (NLI) audits.
+- **Handling missing information:** 3D confidence scoring and structured abstention (*"I don't know"* instead of false confidence).
+- **Reducing irrelevant context:** Eliminating context window pollution.
+- **Designing retrieval around the actual user question.**
+
+#### Stack
+`Python` · `RAG` · `LLMs` · `ChromaDB` · `BM25` · `Embeddings` · `Vector Search` · `Information Retrieval` · `FastAPI` · `PyTest (59/59 Passing)`
+
+👉 [**View Repository →**](https://github.com/Gunjannnn30/RAG-Pipeline-Hybrid-Search)
+
+<br/><br/>
+
+---
+
+<br/>
+
+## 04 — SKILL2CAREER ENGINE
+
+**From Resume → Skills → Career Direction**  
+*A full-stack AI application designed to help users understand where their current skills can take them — and what they need to learn next.*
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Gunjannnn30/skill2career-engine" target="_blank">
+    <img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/skill2career-preview.png" alt="Skill2Career Engine Platform Preview" width="95%" style="border-radius: 8px; border: 1px solid #30363d;" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+
+```text
+┌─────────────────┐
+│    RESUME /     │
+│   USER INPUT    │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│   INFORMATION   │
+│   EXTRACTION    │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│  SKILL MAPPING  │
+│                 │
+│  Skills → Roles │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│  GAP ANALYSIS   │
+│                 │
+│ Current → Target│
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│   AI ROADMAP    │
+│                 │
+│  Learn → Build  │
+└─────────────────┘
+```
+
+</div>
+
+<br/>
+
+#### What I built
+- Resume/document ingestion
+- Skill extraction
+- Career-role mapping
+- Skill-gap analysis
+- AI-generated learning roadmaps
+- Authentication and protected routes
+- Backend API architecture
+- AI integration with fallback handling
+
+#### Stack
+`React` · `Node.js` · `Express` · `MongoDB` · `Mongoose` · `JWT` · `Gemini API` · `Render` · `Vercel`
+
+#### Product thinking
+The interesting part wasn't simply integrating an LLM.
+
+The actual product question was:
+> **How do you turn a user's messy career information into something actionable?**
+
+That meant thinking beyond:
+> *AI generates text*
+
+toward:
+> **Input &nbsp;→&nbsp; Interpretation &nbsp;→&nbsp; Recommendation &nbsp;→&nbsp; Action**
+
+👉 [**Live Demo →**](https://github.com/Gunjannnn30/skill2career-engine) &nbsp;·&nbsp; [**Repository →**](https://github.com/Gunjannnn30/skill2career-engine)
+
+<br/>
+
+---
+
+<br/>
+
+## 05 — SKILLS
 
 <table width="100%">
   <thead>
     <tr style="background-color: #161b22;">
       <th align="left" width="28%">Domain</th>
-      <th align="left" width="72%">Technologies, Frameworks & Core Concepts</th>
+      <th align="left" width="72%">Technologies & Concepts</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>💻 Languages</strong></td>
-      <td>
-        <code>Java</code> &nbsp; <code>Python (3.11+)</code> &nbsp; <code>C</code> &nbsp; <code>JavaScript (ES6+)</code>
-      </td>
+      <td><strong>Languages</strong></td>
+      <td><code>JavaScript</code> &nbsp; <code>Python</code> &nbsp; <code>Java</code> &nbsp; <code>C</code></td>
     </tr>
     <tr>
-      <td><strong>🧠 AI, Agents & LLMs</strong></td>
-      <td>
-        <code>LangGraph</code> &nbsp;•&nbsp; <code>Model Context Protocol (MCP)</code> &nbsp;•&nbsp; <code>OpenAI Swarm</code> &nbsp;•&nbsp; <code>Anthropic API</code> &nbsp;•&nbsp; <code>Google Gemini API</code> &nbsp;•&nbsp; <code>Ollama (Local LLMs)</code> &nbsp;•&nbsp; <code>Multi-Agent Workflows</code> &nbsp;•&nbsp; <code>Tool Calling</code> &nbsp;•&nbsp; <code>SSE & WebSocket Streaming</code> &nbsp;•&nbsp; <code>Prompt Engineering</code> &nbsp;•&nbsp; <code>Prompt Injection Defense</code>
-      </td>
+      <td><strong>Frontend</strong></td>
+      <td><code>React</code> &nbsp; <code>HTML</code> &nbsp; <code>CSS</code> &nbsp; <code>Vite</code></td>
     </tr>
     <tr>
-      <td><strong>🔍 RAG & Retrieval</strong></td>
-      <td>
-        <code>Retrieval-Augmented Generation (RAG)</code> &nbsp;•&nbsp; <code>ChromaDB Vector Store</code> &nbsp;•&nbsp; <code>BM25 Sparse Search</code> &nbsp;•&nbsp; <code>Concurrent Hybrid Search</code> &nbsp;•&nbsp; <code>Reciprocal Rank Fusion (RRF)</code> &nbsp;•&nbsp; <code>Dense Vector Search</code> &nbsp;•&nbsp; <code>Adaptive Chunking Strategies</code> &nbsp;•&nbsp; <code>LLM-as-a-Judge Evaluation</code> &nbsp;•&nbsp; <code>Automated Citation Verification</code>
-      </td>
+      <td><strong>Backend</strong></td>
+      <td><code>Node.js</code> &nbsp; <code>Express</code> &nbsp; <code>FastAPI</code> &nbsp; <code>REST APIs</code></td>
     </tr>
     <tr>
-      <td><strong>🌐 Web & Full-Stack</strong></td>
-      <td>
-        <code>MERN Stack</code> (<code>MongoDB</code>, <code>Express.js</code>, <code>React.js</code>, <code>Node.js</code>) &nbsp;•&nbsp; <code>HTML5</code> &nbsp;•&nbsp; <code>CSS3</code> &nbsp;•&nbsp; <code>FastAPI</code> &nbsp;•&nbsp; <code>RESTful APIs</code> &nbsp;•&nbsp; <code>Stateless JWT Auth</code>
-      </td>
+      <td><strong>AI / GenAI & Agents</strong></td>
+      <td><code>LLMs</code> &nbsp; <code>RAG</code> &nbsp; <code>Prompt Engineering</code> &nbsp; <code>Gemini API</code> &nbsp; <code>AI Agents</code> &nbsp; <code>LangGraph</code> &nbsp; <code>Model Context Protocol (MCP)</code> &nbsp; <code>OpenAI Swarm</code> &nbsp; <code>Anthropic API</code> &nbsp; <code>Ollama</code></td>
     </tr>
     <tr>
-      <td><strong>⚡ Backend & Data Pipelines</strong></td>
-      <td>
-        <code>Python</code> &nbsp;•&nbsp; <code>FastAPI</code> &nbsp;•&nbsp; <code>Pydantic</code> &nbsp;•&nbsp; <code>Streamlit</code> &nbsp;•&nbsp; <code>Apache Kafka</code> &nbsp;•&nbsp; <code>PySpark</code> &nbsp;•&nbsp; <code>Dagster</code> &nbsp;•&nbsp; <code>dbt</code> &nbsp;•&nbsp; <code>Delta Lake</code>
-      </td>
+      <td><strong>Data & Distributed</strong></td>
+      <td><code>MongoDB</code> &nbsp; <code>MongoDB Atlas</code> &nbsp; <code>SQL</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Apache Kafka</code> &nbsp; <code>PySpark</code> &nbsp; <code>Delta Lake</code></td>
     </tr>
     <tr>
-      <td><strong>🗄️ Database & Graph Tech</strong></td>
-      <td>
-        <code>SQL</code> &nbsp;•&nbsp; <code>NoSQL</code> &nbsp;•&nbsp; <code>PostgreSQL</code> &nbsp;•&nbsp; <code>MongoDB Atlas</code> &nbsp;•&nbsp; <code>Neo4j</code> &nbsp;•&nbsp; <code>TigerGraph</code> &nbsp;•&nbsp; <code>PuppyGraph</code> &nbsp;•&nbsp; <code>GraphFrames</code> &nbsp;•&nbsp; <code>Mongoose ORM</code>
-      </td>
+      <td><strong>Engineering & Reliability</strong></td>
+      <td><code>JWT</code> &nbsp; <code>Git</code> &nbsp; <code>GitHub</code> &nbsp; <code>Postman</code> &nbsp; <code>API Design</code> &nbsp; <code>PyTest</code> &nbsp; <code>MLflow</code> &nbsp; <code>XGBoost</code></td>
     </tr>
     <tr>
-      <td><strong>📈 ML, Reliability & Eval</strong></td>
-      <td>
-        <code>XGBoost</code> &nbsp;•&nbsp; <code>Random Forest</code> &nbsp;•&nbsp; <code>MLflow</code> &nbsp;•&nbsp; <code>ROC AUC Evaluation</code> &nbsp;•&nbsp; <code>Model Promotion Gates</code> &nbsp;•&nbsp; <code>HMAC-Signed Corrections</code> &nbsp;•&nbsp; <code>Audit Logs</code> &nbsp;•&nbsp; <code>Human-in-the-Loop (HITL)</code> &nbsp;•&nbsp; <code>PyTest (59 Test Suites)</code>
-      </td>
+      <td><strong>DevOps & Observability</strong></td>
+      <td><code>Docker</code> &nbsp; <code>OpenTelemetry</code> &nbsp; <code>Grafana</code> &nbsp; <code>VS Code</code> &nbsp; <code>Excel (Data Dashboards)</code></td>
     </tr>
     <tr>
-      <td><strong>⚙️ Core Computer Science</strong></td>
-      <td>
-        <code>Data Structures & Algorithms (DSA)</code> &nbsp;•&nbsp; <code>DBMS</code> &nbsp;•&nbsp; <code>System Design</code> &nbsp;•&nbsp; <code>Operating Systems</code> &nbsp;•&nbsp; <code>Computer Networks</code>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>🛠️ DevOps, Observability & Tools</strong></td>
-      <td>
-        <code>Docker</code> &nbsp;•&nbsp; <code>OpenTelemetry</code> &nbsp;•&nbsp; <code>Grafana</code> &nbsp;•&nbsp; <code>Git</code> &nbsp;•&nbsp; <code>GitHub</code> &nbsp;•&nbsp; <code>VS Code</code> &nbsp;•&nbsp; <code>Microsoft Excel (Data Dashboards)</code> &nbsp;•&nbsp; <code>Postman</code> &nbsp;•&nbsp; <code>CI/CD Pipelines</code>
-      </td>
+      <td><strong>Product</strong></td>
+      <td><code>Product Thinking</code> &nbsp; <code>User Research</code> &nbsp; <code>Problem Definition</code> &nbsp; <code>UX Thinking</code> &nbsp; <code>Feature Prioritization</code></td>
     </tr>
   </tbody>
 </table>
 
 <br/>
 
-<!-- MODERN SKILL ICONS -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,express,fastapi,postgres,mongodb,kafka,docker,git,github,vscode,grafana&theme=dark" alt="Technical Skills" />
-</p>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,python,java,c,react,html,css,vite,nodejs,express,fastapi,postgres,mongodb,kafka,docker,git,github,vscode,grafana&theme=dark" alt="Gunjan's Technical Skills" />
 </div>
 
 <br/>
@@ -156,119 +368,48 @@
 
 <br/>
 
-## 💼 Featured Engineering Projects & Architecture
+## 06 — EXPERIENCE
+
+### AIESEC IN DEHRADUN
+*Leadership · Operations · People · Product Thinking*
+
+My experience at AIESEC shaped how I think about building products.
+
+I worked across leadership, people management and operations — experiences that forced me to think about users, teams, execution and measurable outcomes, rather than technology in isolation.
 
 <br/>
 
-### 🔍 01. Enterprise RAG Pipeline with Hybrid Search
-
-> **Production-Grade Information Retrieval, Hybrid Ranking & Automated Hallucination Verification**
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/Gunjannnn30/RAG-Pipeline-Hybrid-Search" target="_blank">
-    <img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/rag-architecture.png" alt="RAG Pipeline Architecture" width="95%" style="border-radius: 10px; border: 1px solid #30363d;" />
-  </a>
-</div>
+#### 📌 Chief Executive Officer – AIESEC in Dehradun
+**Oct 2025 – Jan 2026**
+- Generated **₹5L+ revenue** and improved operational efficiency by **30%** using analytics systems.
+- Led a **100+ member organization** across multiple functional teams.
+- Managed organizational priorities and execution.
+- Worked with dashboards and performance tracking systems.
+- Focused on growth, operations, and team performance.
 
 <br/>
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h4>System Overview & Engineering Highlights:</h4>
-      <ul>
-        <li><strong>Concurrent Hybrid Retrieval:</strong> Fuses dense semantic vector embeddings (ChromaDB) and sparse lexical retrieval (BM25) using <em>Reciprocal Rank Fusion (RRF)</em> to eliminate semantic drift and capture exact identifiers.</li>
-        <li><strong>Parallel Cross-Encoder Reranker:</strong> Employs multi-threaded LLM-as-judge scoring to prune top-20 candidate chunks down to top-5 high-signal passages.</li>
-        <li><strong>Automated NLI Citation Verification:</strong> Audits every generated sentence against source documents using Natural Language Inference to prevent hallucinated citations.</li>
-        <li><strong>100% Offline & Sovereign:</strong> Runs locally via Ollama with zero token bills and zero cloud data leaks.</li>
-        <li><strong>Test-Driven Engineering:</strong> Backed by <strong>59/59 passing unit and integration test suites</strong>.</li>
-      </ul>
-      <p>
-        <code>Python 3.11+</code> · <code>FastAPI</code> · <code>ChromaDB</code> · <code>BM25</code> · <code>Ollama</code> · <code>Streamlit</code> · <code>Docker</code> · <code>PyTest</code>
-      </p>
-    </td>
-    <td width="35%" valign="middle" align="center">
-      <br/>
-      <a href="https://github.com/Gunjannnn30/RAG-Pipeline-Hybrid-Search" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-View%20Repository-00D2FF?style=for-the-badge&logo=github&logoColor=black" alt="View Repo" />
-      </a>
-      <br/><br/>
-      <a href="https://github.com/Gunjannnn30/RAG-Pipeline-Hybrid-Search" target="_blank">
-        <img src="https://img.shields.io/badge/Tests-59%2F59%20Passing-00F5A0?style=for-the-badge&logo=pytest&logoColor=black" alt="Tests" />
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Privacy-100%25%20Local-7928CA?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Local" />
-    </td>
-  </tr>
-</table>
-
-<br/><br/>
-
-### 🎯 02. Skill2Career Engine — AI Career Mapping Platform
-
-> **Intelligent Career Gap Analysis with Resilient Deterministic Heuristic Fallback Routing**
+#### 📌 Head of Human Resources – AIESEC in Dehradun
+**2025 – 2026**
+- Built and managed **HR database (200+ records)**.
+- Improved tracking efficiency by **50%** using structured data systems for **200+ members**.
+- Worked on member acquisition and onboarding.
+- Managed and supported multiple managers across departments.
+- Designed processes around people and team performance.
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/Gunjannnn30/skill2career-engine" target="_blank">
-    <img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/skill2career-preview.png" alt="Skill2Career Preview" width="95%" style="border-radius: 10px; border: 1px solid #30363d;" />
-  </a>
-</div>
+#### 📌 Head of Outgoing Operations – AIESEC in Dehradun
+**2024 – 2025**
+- Generated **₹2L+ revenue** with **~40% growth**.
+- Conducted **300+ cold calls** and managed clients, improving efficiency by **35%** using tracking tools.
+- Coordinated processes involving multiple international and domestic stakeholders.
+- Focused on operational execution and real-time problem solving.
 
 <br/>
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h4>System Overview & Engineering Highlights:</h4>
-      <ul>
-        <li><strong>AI Career Intelligence:</strong> Integrates Google Gemini API with multi-tiered routing (<code>gemini-3.1-flash-lite</code> with automatic fallback to <code>gemini-2.5-flash</code>) to parse resumes and map missing skill sets.</li>
-        <li><strong>Deterministic Rule Safety:</strong> Features an offline keyword heuristic engine ensuring the user experience never crashes even during third-party API rate limits.</li>
-        <li><strong>In-Memory Privacy:</strong> Ingests and parses PDF resumes in memory using <code>multer.memoryStorage()</code> with zero unneeded file persistence.</li>
-        <li><strong>Production Deployment:</strong> Fully deployed with live Express/Node API on Render and edge client delivery on Vercel.</li>
-      </ul>
-      <p>
-        <code>React 18.3</code> · <code>Node.js</code> · <code>Express.js</code> · <code>MongoDB Atlas</code> · <code>Google Gemini API</code> · <code>JWT</code>
-      </p>
-    </td>
-    <td width="35%" valign="middle" align="center">
-      <br/>
-      <a href="https://github.com/Gunjannnn30/skill2career-engine" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-View%20Repository-7928CA?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
-      </a>
-      <br/><br/>
-      <a href="https://github.com/Gunjannnn30/skill2career-engine" target="_blank">
-        <img src="https://img.shields.io/badge/Live-Render%20%2B%20Vercel-00D2FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Deploy" />
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20Gemini-00F5A0?style=for-the-badge&logo=react&logoColor=black" alt="MERN" />
-    </td>
-  </tr>
-</table>
-
-<br/><br/>
-
-### 🛡️ 03. MCP Security Gateway
-
-> **Self-Protecting Authorization Layer for AI Agent Tool Calls & Runtime Sandboxing**
-
-<br/>
-
-<table>
-  <tr>
-    <td width="100%" style="padding: 18px; line-height: 1.6;">
-      <p>
-        A security framework designed to intercept, monitor, and enforce access control policies on autonomous Model Context Protocol (MCP) agent tool executions. Protects developer environments and corporate systems against unauthorized tool invocations, prompt injection escapes, and out-of-boundary file system access through real-time static and behavioral rule evaluation.
-      </p>
-      <p>
-        <code>Python</code> &nbsp;•&nbsp; <code>AI Agents</code> &nbsp;•&nbsp; <code>Model Context Protocol (MCP)</code> &nbsp;•&nbsp; <code>Runtime Sandboxing</code> &nbsp;•&nbsp; <code>Security Gateways</code>
-      </p>
-    </td>
-  </tr>
-</table>
+> **What this taught me:**  
+> **`TECHNOLOGY + PEOPLE + OPERATIONS + BUSINESS OBJECTIVES = BETTER PRODUCTS`**
 
 <br/>
 
@@ -276,46 +417,23 @@
 
 <br/>
 
-## 🏆 Key Achievements & Engineering Metrics
+## 07 — PRODUCT MINDSET
 
-<br/>
+I enjoy sitting between engineering and product.
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" style="padding: 15px;">
-      <h3 style="color: #00F5A0; margin-bottom: 5px;">🛡️ 59 / 59</h3>
-      <p><strong>Automated Test Coverage</strong></p>
-      <p style="font-size: 13px; color: #8b949e;">Zero-regression test suites spanning vector indexing, reranking, and boundary conditions.</p>
-    </td>
-    <td width="33%" align="center" style="padding: 15px;">
-      <h3 style="color: #00D2FF; margin-bottom: 5px;">📚 500K+</h3>
-      <p><strong>Corpus Evaluation</strong></p>
-      <p style="font-size: 13px; color: #8b949e;">Benchmarked hybrid search over 500K+ complex documents on EnterpriseRAG-Bench.</p>
-    </td>
-    <td width="33%" align="center" style="padding: 15px;">
-      <h3 style="color: #7928CA; margin-bottom: 5px;">🔒 100%</h3>
-      <p><strong>Offline Local Privacy</strong></p>
-      <p style="font-size: 13px; color: #8b949e;">Engineered sovereign on-premise Ollama pipelines with zero cloud data transmission.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center" style="padding: 15px;">
-      <h3 style="color: #00D2FF; margin-bottom: 5px;">🚀 Production</h3>
-      <p><strong>Cloud Deployments</strong></p>
-      <p style="font-size: 13px; color: #8b949e;">Successfully shipped and maintained live production architectures on Render and Vercel.</p>
-    </td>
-    <td width="33%" align="center" style="padding: 15px;">
-      <h3 style="color: #00F5A0; margin-bottom: 5px;">⚡ Resilient</h3>
-      <p><strong>Deterministic Fallbacks</strong></p>
-      <p style="font-size: 13px; color: #8b949e;">Heuristic routing engines preventing UI crashes during third-party LLM rate limits.</p>
-    </td>
-    <td width="33%" align="center" style="padding: 15px;">
-      <h3 style="color: #7928CA; margin-bottom: 5px;">🎓 B.Tech CSE</h3>
-      <p><strong>AI & Data Science</strong></p>
-      <p style="font-size: 13px; color: #8b949e;">Rigorous academic foundation in DSA, DBMS, OS, Computer Networks & System Design.</p>
-    </td>
-  </tr>
-</table>
+Not because I want to replace either discipline — but because good products require both.
+
+Before building a feature, I ask:
+
+- **Problem:** What problem are we actually solving?
+- **User:** Who experiences this problem?
+- **Value:** Why would they care?
+- **Design:** What is the simplest useful experience?
+- **Engineering:** What architecture makes sense?
+- **Measurement:** How will we know it worked?
+
+This is how I want to approach software engineering:  
+**not feature-first — problem-first.**
 
 <br/>
 
@@ -323,49 +441,77 @@
 
 <br/>
 
-## 📊 GitHub Analytics & Telemetry
+## 08 — ENGINEERING PHILOSOPHY
+
+> **Don't build more. Build what matters.**  
+> **Don't hide complexity. Understand it.**  
+> **Don't optimize for technology count. Optimize for useful systems.**  
+> **Don't stop at "it works". Ask "does it solve the problem?"**
 
 <br/>
 
+---
+
+<br/>
+
+## 09 — CURRENTLY EXPLORING
+
+```text
+AI Engineering
+├── RAG
+├── LLM Applications
+├── AI Agents
+└── Evaluation
+
+Full-Stack Engineering
+├── React
+├── Node.js
+├── APIs
+└── Databases
+
+Systems & Security
+├── MCP
+├── Tool Security
+├── Authentication
+└── Runtime Controls
+
+Product
+├── UX
+├── User Problems
+├── Product Strategy
+└── Business Outcomes
+```
+
+<br/>
+
+---
+
+<br/>
+
+## 10 — ENGINEERING METRICS & PERFORMANCE
+
 <div align="center">
 
-  <!-- GITHUB STATS & STREAK -->
+  <img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/executive-metrics.png" alt="Engineering Performance Overview" width="95%" style="border-radius: 10px; border: 1px solid #30363d; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
+
+  <br/><br/>
+
+  <!-- CLEAN LIGHT-TONED GITHUB STATS -->
   <table border="0">
     <tr>
       <td>
         <a href="https://github.com/Gunjannnn30">
-          <img src="https://github-readme-stats.vercel.app/api?username=Gunjannnn30&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=00D2FF&title_color=00D2FF&text_color=F8F8F2&icon_color=00F5A0&hide_border=false" alt="Gunjan's GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Gunjannnn30&show_icons=true&theme=buefy&border_color=0077B5&title_color=0077B5&icon_color=0077B5" alt="GitHub Stats" />
         </a>
       </td>
       <td>
         <a href="https://github.com/Gunjannnn30">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunjannnn30&theme=tokyonight&background=0D1117&ring=00D2FF&fire=00F5A0&currStreakLabel=00D2FF&sideNums=F8F8F2&sideLabels=7928CA&border=00D2FF" alt="Gunjan's GitHub Streak" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunjannnn30&theme=buefy&border=0077B5&fire=0077B5&ring=0077B5&currStreakLabel=0077B5" alt="GitHub Streak" />
         </a>
       </td>
     </tr>
   </table>
 
-  <br/><br/>
-
-  <!-- TOP LANGUAGES -->
-  <a href="https://github.com/Gunjannnn30">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjannnn30&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=7928CA&title_color=00D2FF&text_color=F8F8F2&hide_border=false" alt="Top Languages" />
-  </a>
-
-  <br/><br/>
-
-  <!-- CONTRIBUTION ACTIVITY GRAPH -->
-  <a href="https://github.com/Gunjannnn30">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunjannnn30&bg_color=0D1117&color=00D2FF&line=00F5A0&point=7928CA&area=true&hide_border=false&border_color=00D2FF" alt="Contribution Graph" width="95%" />
-  </a>
-
-  <br/><br/>
-
-  <!-- GITHUB TROPHIES -->
-  <a href="https://github.com/Gunjannnn30">
-    <img src="https://github-profile-trophy.vercel.app/?username=Gunjannnn30&theme=dracula&no-frame=true&margin-w=8" alt="GitHub Trophies" />
-  </a>
-
 </div>
 
 <br/>
@@ -374,37 +520,60 @@
 
 <br/>
 
-## 📬 Let's Connect & Collaborate!
+## 11 — LET'S BUILD
+
+I'm interested in opportunities where I can work at the intersection of:
+
+<div align="center">
+  <strong>Software Engineering &nbsp;×&nbsp; AI &nbsp;×&nbsp; Product</strong>
+</div>
+
+<br/>
+
+**Open to:**
+- Software Engineering
+- Full-Stack Development
+- AI / GenAI Engineering
+- Product Engineering
+- AI Product Internships
 
 <br/>
 
 <div align="center">
 
-<p style="font-size: 15px; max-width: 600px;">
-  Whether you're interested in discussing <strong>Generative AI & LLMs</strong>, collaborating on <strong>Production RAG & Full-Stack Architectures</strong>, or exploring <strong>Software Engineering opportunities</strong> — feel free to connect!
+### Build systems. Understand users. Solve real problems.
+
+<br/>
+
+<a href="https://github.com/Gunjannnn30">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/gunjan-jain30" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:gunjan.workbusiness@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" />
+</a>
+
+<br/><br/>
+
+<p>
+  <a href="https://github.com/Gunjannnn30">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/gunjan-jain30" target="_blank">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:gunjan.workbusiness@gmail.com">Email</a>
 </p>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/gunjan-jain30" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-gunjan--jain30-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:gunjan.workbusiness@gmail.com">
-  <img src="https://img.shields.io/badge/Email-gunjan.workbusiness%40gmail.com-7928CA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://github.com/Gunjannnn30">
-  <img src="https://img.shields.io/badge/GitHub-@Gunjannnn30-00D2FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
-</a>
+<!-- VISITOR BADGE -->
+<img src="https://komarev.com/ghpvc/?username=Gunjannnn30&color=0077b5&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br/><br/>
 
-<!-- VISITOR RADAR -->
-<img src="https://komarev.com/ghpvc/?username=Gunjannnn30&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-<br/><br/>
-
-<sub>Designed & Engineered with precision by <strong>Gunjan Jain</strong> · © 2026</sub>
+<sub>Gunjan Jain · Software Engineer · AI & Full-Stack · Product Thinking</sub>
 
 </div>
