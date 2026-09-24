@@ -5,7 +5,7 @@
 <br/>
 
 <!-- Connect With Me Banner (Full Width) -->
-<img width="100%" alt="Connect With Me" src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/connect-banner.png" />
+<img width="100%" alt="Connect With Me" src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/connect-terminal-cyber.png" />
 
 </div>
 
