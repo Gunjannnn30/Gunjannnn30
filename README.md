@@ -79,27 +79,51 @@
 <table width="100%">
   <thead>
     <tr style="background-color: #161b22;">
-      <th align="left" width="30%">Domain</th>
-      <th align="left" width="70%">Technologies, Frameworks & Core Concepts</th>
+      <th align="left" width="28%">Domain</th>
+      <th align="left" width="72%">Technologies, Frameworks & Core Concepts</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong>💻 Languages</strong></td>
       <td>
-        <code>Java</code> &nbsp; <code>Python</code> &nbsp; <code>C</code> &nbsp; <code>JavaScript (ES6+)</code>
+        <code>Java</code> &nbsp; <code>Python (3.11+)</code> &nbsp; <code>C</code> &nbsp; <code>JavaScript (ES6+)</code>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>🧠 AI, Agents & LLMs</strong></td>
+      <td>
+        <code>LangGraph</code> &nbsp;•&nbsp; <code>Model Context Protocol (MCP)</code> &nbsp;•&nbsp; <code>OpenAI Swarm</code> &nbsp;•&nbsp; <code>Anthropic API</code> &nbsp;•&nbsp; <code>Google Gemini API</code> &nbsp;•&nbsp; <code>Ollama (Local LLMs)</code> &nbsp;•&nbsp; <code>Multi-Agent Workflows</code> &nbsp;•&nbsp; <code>Tool Calling</code> &nbsp;•&nbsp; <code>SSE & WebSocket Streaming</code> &nbsp;•&nbsp; <code>Prompt Engineering</code> &nbsp;•&nbsp; <code>Prompt Injection Defense</code>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>🔍 RAG & Retrieval</strong></td>
+      <td>
+        <code>Retrieval-Augmented Generation (RAG)</code> &nbsp;•&nbsp; <code>ChromaDB Vector Store</code> &nbsp;•&nbsp; <code>BM25 Sparse Search</code> &nbsp;•&nbsp; <code>Concurrent Hybrid Search</code> &nbsp;•&nbsp; <code>Reciprocal Rank Fusion (RRF)</code> &nbsp;•&nbsp; <code>Dense Vector Search</code> &nbsp;•&nbsp; <code>Adaptive Chunking Strategies</code> &nbsp;•&nbsp; <code>LLM-as-a-Judge Evaluation</code> &nbsp;•&nbsp; <code>Automated Citation Verification</code>
       </td>
     </tr>
     <tr>
       <td><strong>🌐 Web & Full-Stack</strong></td>
       <td>
-        <code>MERN Stack</code> (<code>MongoDB</code>, <code>Express.js</code>, <code>React.js</code>, <code>Node.js</code>) &nbsp;•&nbsp; <code>HTML5</code> &nbsp;•&nbsp; <code>CSS3</code> &nbsp;•&nbsp; <code>FastAPI</code> &nbsp;•&nbsp; <code>RESTful APIs</code>
+        <code>MERN Stack</code> (<code>MongoDB</code>, <code>Express.js</code>, <code>React.js</code>, <code>Node.js</code>) &nbsp;•&nbsp; <code>HTML5</code> &nbsp;•&nbsp; <code>CSS3</code> &nbsp;•&nbsp; <code>FastAPI</code> &nbsp;•&nbsp; <code>RESTful APIs</code> &nbsp;•&nbsp; <code>Stateless JWT Auth</code>
       </td>
     </tr>
     <tr>
-      <td><strong>🧠 AI & Machine Learning</strong></td>
+      <td><strong>⚡ Backend & Data Pipelines</strong></td>
       <td>
-        <code>Generative AI</code> &nbsp;•&nbsp; <code>Google Gemini API</code> &nbsp;•&nbsp; <code>AI Integration</code> &nbsp;•&nbsp; <code>AI Automation</code> &nbsp;•&nbsp; <code>Large Language Models (LLMs)</code> &nbsp;•&nbsp; <code>Machine Learning Algorithms</code> &nbsp;•&nbsp; <code>Hybrid RAG</code> &nbsp;•&nbsp; <code>AI Agents</code> &nbsp;•&nbsp; <code>Ollama (Local Inference)</code>
+        <code>Python</code> &nbsp;•&nbsp; <code>FastAPI</code> &nbsp;•&nbsp; <code>Pydantic</code> &nbsp;•&nbsp; <code>Streamlit</code> &nbsp;•&nbsp; <code>Apache Kafka</code> &nbsp;•&nbsp; <code>PySpark</code> &nbsp;•&nbsp; <code>Dagster</code> &nbsp;•&nbsp; <code>dbt</code> &nbsp;•&nbsp; <code>Delta Lake</code>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>🗄️ Database & Graph Tech</strong></td>
+      <td>
+        <code>SQL</code> &nbsp;•&nbsp; <code>NoSQL</code> &nbsp;•&nbsp; <code>PostgreSQL</code> &nbsp;•&nbsp; <code>MongoDB Atlas</code> &nbsp;•&nbsp; <code>Neo4j</code> &nbsp;•&nbsp; <code>TigerGraph</code> &nbsp;•&nbsp; <code>PuppyGraph</code> &nbsp;•&nbsp; <code>GraphFrames</code> &nbsp;•&nbsp; <code>Mongoose ORM</code>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>📈 ML, Reliability & Eval</strong></td>
+      <td>
+        <code>XGBoost</code> &nbsp;•&nbsp; <code>Random Forest</code> &nbsp;•&nbsp; <code>MLflow</code> &nbsp;•&nbsp; <code>ROC AUC Evaluation</code> &nbsp;•&nbsp; <code>Model Promotion Gates</code> &nbsp;•&nbsp; <code>HMAC-Signed Corrections</code> &nbsp;•&nbsp; <code>Audit Logs</code> &nbsp;•&nbsp; <code>Human-in-the-Loop (HITL)</code> &nbsp;•&nbsp; <code>PyTest (59 Test Suites)</code>
       </td>
     </tr>
     <tr>
@@ -109,15 +133,9 @@
       </td>
     </tr>
     <tr>
-      <td><strong>🗄️ Database Systems</strong></td>
+      <td><strong>🛠️ DevOps, Observability & Tools</strong></td>
       <td>
-        <code>SQL</code> &nbsp;•&nbsp; <code>NoSQL</code> (<code>MongoDB Atlas</code>, <code>ChromaDB Vector Store</code>) &nbsp;•&nbsp; <code>Mongoose ORM</code>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>🛠️ Tools & Analytics</strong></td>
-      <td>
-        <code>Git</code> &nbsp;•&nbsp; <code>GitHub</code> &nbsp;•&nbsp; <code>VS Code</code> &nbsp;•&nbsp; <code>Microsoft Excel (Data Dashboards)</code> &nbsp;•&nbsp; <code>Postman</code> &nbsp;•&nbsp; <code>Docker</code> &nbsp;•&nbsp; <code>PyTest</code>
+        <code>Docker</code> &nbsp;•&nbsp; <code>OpenTelemetry</code> &nbsp;•&nbsp; <code>Grafana</code> &nbsp;•&nbsp; <code>Git</code> &nbsp;•&nbsp; <code>GitHub</code> &nbsp;•&nbsp; <code>VS Code</code> &nbsp;•&nbsp; <code>Microsoft Excel (Data Dashboards)</code> &nbsp;•&nbsp; <code>Postman</code> &nbsp;•&nbsp; <code>CI/CD Pipelines</code>
       </td>
     </tr>
   </tbody>
@@ -127,7 +145,7 @@
 
 <!-- MODERN SKILL ICONS -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,react,nodejs,express,mongodb,fastapi,docker,git,github,vscode&theme=dark" alt="Technical Skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,express,fastapi,postgres,mongodb,kafka,docker,git,github,vscode,grafana&theme=dark" alt="Technical Skills" />
 </p>
 
 </div>
