@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1085" height="723" alt="image" src="https://github.com/user-attachments/assets/4b70f689-06e5-48d6-b58a-242d7e941246" />
+<img width="1536" height="1024" alt="portfolio" src="https://github.com/user-attachments/assets/eb6dde96-21e4-4205-934f-01fb74b315c8" />
 
   <p><em>I build tech that solves real problems — not just projects that show off tech.</em></p>
 
