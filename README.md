@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="1536" height="1024" alt="WhatsApp Image 2026-09-25 at 1 16 18 AM" src="https://github.com/user-attachments/assets/632cf771-119a-4772-9f4c-35da13d658c5" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1470ae36-51cd-4c3b-aa15-728282a7a236" />
+
 
 <br/>
 
