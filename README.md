@@ -23,17 +23,9 @@
 
 <br/>
 
-
- 
-       
-    
- 
-
-## 🛠️ Technical Stack & Engineering Architecture
-
 <div align="center">
 
-<img width="100%" alt="Gunjan Jain — Technical Skills" src="https://github.com/user-attachments/assets/986a7f90-297e-4a4d-8f89-e0e24e0c5b46" />
+<img width="100%" alt="Skills — Tools, Tech & Expertise" src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/skills-card.png" />
 
 <br/><br/>
 
