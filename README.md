@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="https://github.com/Gunjannnn30/skill2career-engine" target="_blank" title="Explore Skill2Career Engine Repository & Live Architecture">
-    <img width="100%" alt="Skill2Career Engine — AI Career Roadmap Platform" src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/skill2career-card.png" />
+    <img width="100%" alt="Skill2Career Engine — AI Career Roadmap Platform" src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/skill2career-card-v2.png" />
   </a>
 </div>
 
