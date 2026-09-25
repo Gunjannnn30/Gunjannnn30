@@ -25,11 +25,30 @@
 
 <div align="center">
 
-<img width="100%" alt="Skills — Tools, Tech & Expertise" src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/skills-card.png" />
+<img width="100%" alt="Skills — Tools, Tech & Expertise" src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/skills-card-v2.png" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,express,fastapi,postgres,mongodb,kafka,docker,git,github,vscode&theme=dark" alt="Gunjan's Core Tech Stack" />
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" /></a>
+<a href="https://dev.java" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" /></a>
+<a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="C" title="C" /></a>
+<a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" /></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" /></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" /></a>
+<a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" /></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" /></a>
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" /></a>
+<a href="https://kafka.apache.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka" title="Apache Kafka" /></a>
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" /></a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /></a>
+<a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" /></a>
+<a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" /></a>
+<a href="https://docs.pytest.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytest" alt="pytest" title="pytest" /></a>
+<a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" /></a>
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" /></a>
 
 </div>
 
