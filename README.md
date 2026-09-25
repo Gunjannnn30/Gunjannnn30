@@ -8,14 +8,6 @@
 </div>
 <img width="2124" height="478" alt="heading" src="https://github.com/user-attachments/assets/9d019b4d-cd4d-4210-84dc-767e5e557a02" />
 
-
-> **Software Engineer specializing in AI Systems, Agentic Workflows, and Full-Stack Engineering.**  
-> Focused on building grounded RAG platforms, resilient multi-tier LLM pipelines, and high-performance product architectures that solve real-world problems.
-
----
-
-## ⚡ Featured Engineering Systems
-
 <table>
   <tr>
     <td width="50%" valign="top" style="background-color: #000D16; border: 1px solid #0077B5; padding: 16px; border-radius: 8px;">
