@@ -2,17 +2,12 @@
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1470ae36-51cd-4c3b-aa15-728282a7a236" />
 
-
-<br/>
-
 <!-- Interactive Terminal Banner (Full Width & Clickable) -->
 <a href="mailto:gunjan.workbusiness@gmail.com" title="Email: gunjan.workbusiness@gmail.com" target="_blank"><img width="24.8%" alt="Email" src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/terminal_slice_email.png" /></a><a href="https://www.linkedin.com/in/gunjan-jain30" title="LinkedIn: gunjan-jain30" target="_blank"><img width="24.8%" alt="LinkedIn" src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/terminal_slice_linkedin.png" /></a><a href="https://www.instagram.com/gunjan.decodes?stkn=MTdqZXNvbWJxbDhwcg==" title="Instagram: @gunjan.decodes" target="_blank"><img width="24.8%" alt="Instagram" src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/terminal_slice_instagram.png" /></a><a href="https://substack.com/@gunjanjain30" title="Substack: @gunjanjain30" target="_blank"><img width="24.8%" alt="Substack" src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/terminal_slice_substack.png" /></a>
 
 </div>
+<img width="2124" height="478" alt="heading" src="https://github.com/user-attachments/assets/9d019b4d-cd4d-4210-84dc-767e5e557a02" />
 
-<br/>
-
-<img width="2172" height="724" alt="projects" src="https://github.com/user-attachments/assets/c382aa3b-276f-40d8-b9d0-7d8cb2df67e7" />
 
 > **Software Engineer specializing in AI Systems, Agentic Workflows, and Full-Stack Engineering.**  
 > Focused on building grounded RAG platforms, resilient multi-tier LLM pipelines, and high-performance product architectures that solve real-world problems.
