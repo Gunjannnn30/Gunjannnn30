@@ -39,48 +39,6 @@
 
 <br/>
 
-## 💼 Leadership & Operational Impact
-
-<table>
-  <thead>
-    <tr style="background-color: #000D16;">
-      <th align="left" width="22%" style="color: #00D2FF; border: 1px solid #0077B5;">Role</th>
-      <th align="left" width="28%" style="color: #00F5A0; border: 1px solid #0077B5;">Organization</th>
-      <th align="left" width="50%" style="color: #00D2FF; border: 1px solid #0077B5;">Executive & Business Impact</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="background-color: #011424; border: 1px solid #0077B5;"><strong>CEO</strong><br/><em>(Local Committee President)</em></td>
-      <td style="background-color: #000D16; border: 1px solid #0077B5;"><strong>AIESEC in Dehradun</strong></td>
-      <td style="background-color: #000D16; border: 1px solid #0077B5;">
-        • Directed executive strategy across 5 organizational portfolios.<br/>
-        • Generated <strong>₹5L+ revenue</strong> while accelerating operational efficiency by <strong>30% ↑</strong>.<br/>
-        • Led, coached, and scaled a high-performance team of <strong>100+ members</strong>.
-      </td>
-    </tr>
-    <tr>
-      <td style="background-color: #011424; border: 1px solid #0077B5;"><strong>Head of Human Resources</strong><br/><em>(Vice President TM)</em></td>
-      <td style="background-color: #000D16; border: 1px solid #0077B5;"><strong>AIESEC in Dehradun</strong></td>
-      <td style="background-color: #000D16; border: 1px solid #0077B5;">
-        • Architected and deployed a centralized <strong>200+ record talent management database</strong>.<br/>
-        • Streamlined onboarding and performance reviews, boosting tracking efficiency by <strong>50% ↑</strong>.
-      </td>
-    </tr>
-    <tr>
-      <td style="background-color: #011424; border: 1px solid #0077B5;"><strong>Head of Outgoing Operations</strong><br/><em>(Vice President oGT/oGV)</em></td>
-      <td style="background-color: #000D16; border: 1px solid #0077B5;"><strong>AIESEC in Dehradun</strong></td>
-      <td style="background-color: #000D16; border: 1px solid #0077B5;">
-        • Spearheaded corporate and global exchange partnerships.<br/>
-        • Delivered <strong>₹2L+ revenue</strong> with <strong>~40% YoY growth</strong>.<br/>
-        • Executed <strong>300+ client calls/touchpoints</strong>, increasing pipeline conversion efficiency by <strong>35% ↑</strong>.
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
-
 ## 📊 Live GitHub Activity & Code Telemetry
 
 <div align="center">
