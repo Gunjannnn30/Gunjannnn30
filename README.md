@@ -12,6 +12,8 @@
 
 <br/>
 
+<img width="2172" height="724" alt="projects" src="https://github.com/user-attachments/assets/c382aa3b-276f-40d8-b9d0-7d8cb2df67e7" />
+
 > **Software Engineer specializing in AI Systems, Agentic Workflows, and Full-Stack Engineering.**  
 > Focused on building grounded RAG platforms, resilient multi-tier LLM pipelines, and high-performance product architectures that solve real-world problems.
 
