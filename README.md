@@ -23,93 +23,11 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td width="50%" valign="top" style="background-color: #000D16; border: 1px solid #0077B5; padding: 16px; border-radius: 8px;">
-      <div align="center">
-        <a href="https://github.com/Gunjannnn30/RAG-Pipeline-Hybrid-Search" target="_blank">
-          <img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/rag-preview.png" alt="RAG Pipeline Preview" width="100%" style="border-radius: 6px; border: 1px solid #0077B5;" />
-        </a>
-        <br/><br/>
-        <h3>🔍 RAG Pipeline — Hybrid Search & Verification Engine</h3>
-      </div>
-      <p align="center">
-        <a href="https://github.com/Gunjannnn30/RAG-Pipeline-Hybrid-Search">
-          <img src="https://img.shields.io/github/last-commit/Gunjannnn30/RAG-Pipeline-Hybrid-Search?style=flat-square&logo=git&logoColor=00D2FF&label=Latest%20Commit&color=0077B5&labelColor=000D16" alt="Latest Commit" />
-        </a>
-        <a href="https://github.com/Gunjannnn30/RAG-Pipeline-Hybrid-Search/stargazers">
-          <img src="https://img.shields.io/github/stars/Gunjannnn30/RAG-Pipeline-Hybrid-Search?style=flat-square&logo=github&logoColor=white&label=Stars&color=00F5A0&labelColor=000D16" alt="Stars" />
-        </a>
-        <a href="https://github.com/Gunjannnn30/RAG-Pipeline-Hybrid-Search">
-          <img src="https://img.shields.io/badge/Test%20Suite-59%2F59%20Passing-00F5A0?style=flat-square&labelColor=000D16" alt="Tests" />
-        </a>
-      </p>
-      <p><strong>A production-grade, hallucination-resistant retrieval platform</strong> engineered to eliminate enterprise RAG failure modes (semantic drift, context pollution, fake citations, and lack of abstention):</p>
-      <ul>
-        <li><strong>Dual Concurrent Hybrid Retrieval:</strong> Executes dense vector search (<code>nomic-embed-text</code> in ChromaDB) and sparse keyword search (BM25) concurrently, fused via <strong>Reciprocal Rank Fusion (RRF, k=60)</strong>.</li>
-        <li><strong>Cross-Encoder Reranker:</strong> Concurrent LLM-as-judge scores top-20 candidates down to top-5 high-signal chunks.</li>
-        <li><strong>Automated NLI Citation Verifier:</strong> Audits generated citations sentence-by-sentence against raw passages to catch hallucinations.</li>
-        <li><strong>3D Confidence & Abstention:</strong> Declines to hallucinate if confidence is &lt; 0.30, providing transparent partial findings.</li>
-        <li><strong>100% Local & Air-Gapped:</strong> Zero cloud API costs or data leakage via Ollama (<code>llama3:8b</code>, <code>qwen2.5:7b</code>).</li>
-      </ul>
-      <p>
-        <code>Python 3.11+</code> · <code>ChromaDB</code> · <code>BM25</code> · <code>FastAPI</code> · <code>LangChain</code> · <code>Streamlit</code> · <code>React 18</code>
-      </p>
-      <div align="center">
-        <a href="https://github.com/Gunjannnn30/RAG-Pipeline-Hybrid-Search"><strong>Explore Repository & Benchmarks →</strong></a>
-      </div>
-    </td>
-    <td width="50%" valign="top" style="background-color: #000D16; border: 1px solid #0077B5; padding: 16px; border-radius: 8px;">
-      <div align="center">
-        <a href="https://github.com/Gunjannnn30/skill2career-engine" target="_blank">
-          <img src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/skill2career-preview.png" alt="Skill2Career Preview" width="100%" style="border-radius: 6px; border: 1px solid #0077B5;" />
-        </a>
-        <br/><br/>
-        <h3>🎯 Skill2Career Engine — AI Career Roadmap Platform</h3>
-      </div>
-      <p align="center">
-        <a href="https://github.com/Gunjannnn30/skill2career-engine">
-          <img src="https://img.shields.io/github/last-commit/Gunjannnn30/skill2career-engine?style=flat-square&logo=git&logoColor=00D2FF&label=Latest%20Commit&color=0077B5&labelColor=000D16" alt="Latest Commit" />
-        </a>
-        <a href="https://github.com/Gunjannnn30/skill2career-engine/stargazers">
-          <img src="https://img.shields.io/github/stars/Gunjannnn30/skill2career-engine?style=flat-square&logo=github&logoColor=white&label=Stars&color=00F5A0&labelColor=000D16" alt="Stars" />
-        </a>
-        <a href="https://github.com/Gunjannnn30/skill2career-engine">
-          <img src="https://img.shields.io/badge/Status-Live%20Deployments-00F5A0?style=flat-square&labelColor=000D16" alt="Status" />
-        </a>
-      </p>
-      <p><strong>An intelligent competency matching platform</strong> transforming unstructured resumes into quantified skill gap assessments and multi-phase upskilling trajectories:</p>
-      <ul>
-        <li><strong>Resilient Dual-Tier AI:</strong> Integrates Google Gemini API (<code>gemini-3.1-flash-lite</code> with fallback to <code>gemini-2.5-flash</code>) with an offline deterministic heuristic matching engine (<code>services/roleService.js</code>) guaranteeing 100% uptime during rate limits.</li>
-        <li><strong>In-Memory Secure Document Ingestion:</strong> Zero-disk-storage stream PDF parsing via <code>multer.memoryStorage()</code> and <code>pdf-parse</code> ensuring rapid analysis and data privacy.</li>
-        <li><strong>Full-Stack Production MERN:</strong> Express/Node REST API, JWT auth, MongoDB Atlas persistence (<code>User</code>, <code>AnalysisRecord</code>, <code>CareerProfile</code>), and instant friction-free Guest Mode.</li>
-        <li><strong>Live Cloud Deployment:</strong> Backend orchestrated on <strong>Render</strong>; responsive React frontend deployed on <strong>Vercel</strong>.</li>
-      </ul>
-      <p>
-        <code>React 18</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB Atlas</code> · <code>Google Gemini API</code> · <code>JWT</code> · <code>Tailwind</code>
-      </p>
-      <div align="center">
-        <a href="https://github.com/Gunjannnn30/skill2career-engine"><strong>Explore Repository & Live Architecture →</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
 
-<br/>
-
-### 📌 Dynamic Repository Cards *(Live GitHub Telemetry)*
-
-<div align="center">
-  <a href="https://github.com/Gunjannnn30/RAG-Pipeline-Hybrid-Search" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gunjannnn30&repo=RAG-Pipeline-Hybrid-Search&theme=default&bg_color=000D16&border_color=0077B5&title_color=00D2FF&text_color=94A3B8&icon_color=00F5A0&show_owner=false" alt="RAG Pipeline GitHub Pin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Gunjannnn30/skill2career-engine" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gunjannnn30&repo=skill2career-engine&theme=default&bg_color=000D16&border_color=0077B5&title_color=00D2FF&text_color=94A3B8&icon_color=00F5A0&show_owner=false" alt="Skill2Career Engine GitHub Pin" />
-  </a>
-</div>
-
----
+ 
+       
+    
+ 
 
 ## 🛠️ Technical Stack & Engineering Architecture
 
