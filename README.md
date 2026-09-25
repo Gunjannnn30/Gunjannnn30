@@ -27,65 +27,9 @@
 
 <img width="100%" alt="Skills — Tools, Tech & Expertise" src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/skills-card-v2.png" />
 
-<br/><br/>
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" /></a>
-<a href="https://dev.java" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" /></a>
-<a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="C" title="C" /></a>
-<a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" /></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" /></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" /></a>
-<a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" /></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" /></a>
-<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" /></a>
-<a href="https://kafka.apache.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka" title="Apache Kafka" /></a>
-<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" /></a>
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /></a>
-<a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" /></a>
-<a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" /></a>
-<a href="https://docs.pytest.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytest" alt="pytest" title="pytest" /></a>
-<a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" /></a>
-<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" /></a>
-
 </div>
 
 <br/>
-
-<table>
-  <thead>
-    <tr style="background-color: #000D16;">
-      <th width="30%" align="left" style="color: #00D2FF; border: 1px solid #0077B5;">Domain</th>
-      <th width="70%" align="left" style="color: #00F5A0; border: 1px solid #0077B5;">Technologies, Frameworks & Tooling</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="background-color: #011424; border: 1px solid #0077B5;"><strong>AI, Agents & Retrieval</strong></td>
-      <td style="background-color: #000D16; border: 1px solid #0077B5;">LangGraph, Model Context Protocol (MCP), ChromaDB, BM25, Reciprocal Rank Fusion (RRF), Cross-Encoder Rerankers, Ollama, Google Gemini API, NLI Citation Verification, LLM-as-a-Judge, Prompt Injection Defense</td>
-    </tr>
-    <tr>
-      <td style="background-color: #011424; border: 1px solid #0077B5;"><strong>Languages & Web Backend</strong></td>
-      <td style="background-color: #000D16; border: 1px solid #0077B5;">Python, Java, C, JavaScript (ES6+), React.js, Node.js, Express.js, FastAPI, Pydantic, Streamlit, HTML5, CSS3, REST APIs</td>
-    </tr>
-    <tr>
-      <td style="background-color: #011424; border: 1px solid #0077B5;"><strong>Databases & Data Engineering</strong></td>
-      <td style="background-color: #000D16; border: 1px solid #0077B5;">PostgreSQL, MongoDB Atlas, SQL, NoSQL, Kafka, PySpark, Dagster, dbt, Delta Lake</td>
-    </tr>
-    <tr>
-      <td style="background-color: #011424; border: 1px solid #0077B5;"><strong>ML, Reliability & Evaluation</strong></td>
-      <td style="background-color: #000D16; border: 1px solid #0077B5;">XGBoost, Random Forest, MLflow, ROC-AUC, Model Promotion Gates, HMAC-signed corrections, Audit Logs, Human-in-the-Loop, pytest</td>
-    </tr>
-    <tr>
-      <td style="background-color: #011424; border: 1px solid #0077B5;"><strong>DevOps, Cloud & Tooling</strong></td>
-      <td style="background-color: #000D16; border: 1px solid #0077B5;">Docker, OpenTelemetry, Grafana, Git, GitHub Actions, VS Code, Postman, Vercel, Render</td>
-    </tr>
-  </tbody>
-</table>
-
----
 
 ## 💼 Leadership & Operational Impact
 
