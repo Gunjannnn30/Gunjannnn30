@@ -7,9 +7,6 @@
 
 </div>
 <img width="2124" height="478" alt="heading" src="https://github.com/user-attachments/assets/9d019b4d-cd4d-4210-84dc-767e5e557a02" />
-
-<br/><br/>
-
 <div align="center">
   <a href="https://github.com/Gunjannnn30/RAG-Pipeline-Hybrid-Search" target="_blank" title="Explore RAG Pipeline Repository & Benchmarks">
     <img width="100%" alt="RAG Pipeline — Hybrid Search & Verification Engine" src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/rag-pipeline-card.png" />
