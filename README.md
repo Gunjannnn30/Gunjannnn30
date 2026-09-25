@@ -31,6 +31,14 @@
 
 <br/>
 
+<div align="center">
+  <a href="https://substack.com/@gunjanjain30" target="_blank" title="Check my work on Substack — Gunjan Jain">
+    <img width="100%" alt="What I'm Working On — Building toward AI Engineering" src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/what-im-working-on.png" />
+  </a>
+</div>
+
+<br/>
+
 ## 💼 Leadership & Operational Impact
 
 <table>
