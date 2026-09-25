@@ -15,6 +15,14 @@
 
 <br/>
 
+<div align="center">
+  <a href="https://github.com/Gunjannnn30/skill2career-engine" target="_blank" title="Explore Skill2Career Engine Repository & Live Architecture">
+    <img width="100%" alt="Skill2Career Engine — AI Career Roadmap Platform" src="https://raw.githubusercontent.com/Gunjannnn30/Gunjannnn30/main/assets/skill2career-card.png" />
+  </a>
+</div>
+
+<br/>
+
 <table>
   <tr>
     <td width="50%" valign="top" style="background-color: #000D16; border: 1px solid #0077B5; padding: 16px; border-radius: 8px;">
